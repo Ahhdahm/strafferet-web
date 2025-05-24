@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Strafferet</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="js/gerningskoder.js"></script>
+  <script src="js/kilder.js"></script>
+</head>                                                 
+<body>
+      
+                                                     <!--GERNINGSKODER-->
+<div class="container">  
+  <div class="boxg">
+    <h2>Gerningskoder</h2>
+
+    <!-- Søgefelter -->
+    <label for="searchKodeInput">Søg på gerningskode:</label><br />
+    <input type="text" id="searchKodeInput" placeholder="F.eks. 76631" autocomplete="off" /><br />
+    <ul id="suggestionsList" class="suggestions"></ul>
+
+    <label for="searchForbrydelseInput" style="margin-top:15px; display:block;">Søg på forbrydelse:</label><br />
+    
+    <input type="text" id="searchForbrydelseInput" placeholder="F.eks. Hvidvask" autocomplete="off" /><br /><br />
+    <ul id="suggestionsForbrydelse" class="suggestions"></ul>
+
+    <button onclick="search()">Søg</button>
+    <div id="result"></div>
+  </div>
+</div>
+ 
+                                                     <!--KILDER-->
+      <div class="boxk">
+      <h2>Kilder</h2>
+      <ul id="kilderList"></ul>
+     </div>
+                                                        <!-- NOTER -->   
+     <div class="boxn">
+      <h2>Noter</h2>
+        <input type="text" id="noteTitle" placeholder="Titel" />
+        <textarea id="noteContent" placeholder="Skriv din note her..." rows="10"></textarea>
+        <button onclick="saveNote()">Gem</button>
+        <button onclick="cancelEdit()" style="background-color:#777; margin-left: 10px;">Annuller</button>
+      <ul id="noteList" class="note-list"></ul>
+  </div>
+</div>
+
+<script>
+    function saveNote() {
+      const title = document.getElementById('noteTitle').value.trim();
+      const content = document.getElementById('noteContent').value.trim();
+      if (!title || !content) {
+        alert('Titel og noteindhold skal udfyldes.');
+        return;
+      }
+
+      let notes = JSON.parse(localStorage.getItem('notes') || '[]');
+
+      if (editingNoteId !== null) {
+        // Opdater eksisterende note
+        notes[editingNoteId] = { title, content };
+        editingNoteId = null;
+      } else {
+        // Tilføj ny note
+        notes.push({ title, content });
+      }
+
+      localStorage.setItem('notes', JSON.stringify(notes));
+      document.getElementById('noteTitle').value = '';
+      document.getElementById('noteContent').value = '';
+      renderNotes();
+    }
+
+    function renderNotes() {
+      const noteList = document.getElementById('noteList');
+      let notes = JSON.parse(localStorage.getItem('notes') || '[]');
+      noteList.innerHTML = '';
+
+      notes.forEach((note, index) => {
+        const li = document.createElement('li');
+
+        const h3 = document.createElement('h3');
+        h3.textContent = note.title;
+
+        const p = document.createElement('p');
+        p.textContent = note.content;
+
+        const editBtn = document.createElement('button');
+        editBtn.textContent = 'Rediger';
+        editBtn.onclick = () => editNote(index);
+
+        const delBtn = document.createElement('button');
+        delBtn.textContent = 'Slet';
+        delBtn.onclick = () => deleteNote(index);
+
+        li.appendChild(h3);
+        li.appendChild(p);
+        li.appendChild(editBtn);
+        li.appendChild(delBtn);
+
+        noteList.appendChild(li);
+      });
+    }
+
+    function editNote(id) {
+      let notes = JSON.parse(localStorage.getItem('notes') || '[]');
+      const note = notes[id];
+      document.getElementById('noteTitle').value = note.title;
+      document.getElementById('noteContent').value = note.content;
+      editingNoteId = id;
+    }
+
+    function deleteNote(id) {
+      if (confirm('Er du sikker på, du vil slette denne note?')) {
+        let notes = JSON.parse(localStorage.getItem('notes') || '[]');
+        notes.splice(id, 1);
+        localStorage.setItem('notes', JSON.stringify(notes));
+        renderNotes();
+      }
+    }
+
+    function cancelEdit() {
+      editingNoteId = null;
+      document.getElementById('noteTitle').value = '';
+      document.getElementById('noteContent').value = '';
+    }
+
+    // Render noter ved sideindlæsning
+    renderNotes();
+ </script>
+</body>
+</html>
