@@ -1,0 +1,1215 @@
+kode;forbrydelse;paragraf;kapitel
+70111;Højforræderi;Straffelov § 98;12. kapitel – landsforræderi og andre forbrydelser mod statens selvstændighed og sikkerhed
+70115;Krigsanstiftelse;Straffelov § 99;12. kapitel – landsforræderi og andre forbrydelser mod statens selvstændighed og sikkerhed
+70121;Farevoldende offentlige udtalelser;Straffelov § 100;12. kapitel – landsforræderi og andre forbrydelser mod statens selvstændighed og sikkerhed
+70125;Femte kolonnevirksomhed;Straffelov § 101;12. kapitel – landsforræderi og andre forbrydelser mod statens selvstændighed og sikkerhed
+70126;Deltagelse i væbnet konflikt;Straffelov § 101a, stk. 1;12. kapitel – landsforræderi og andre forbrydelser mod statens selvstændighed og sikkerhed
+70127;Hvervning til væbnet konflikt;Straffelov § 101a, stk. 2;12. kapitel – landsforræderi og andre forbrydelser mod statens selvstændighed og sikkerhed
+70131;Bistand til fjenden under krig;Straffelov § 102;12. kapitel – landsforræderi og andre forbrydelser mod statens selvstændighed og sikkerhed
+70141;Misligholdelse af kontrakt under krig;Straffelov § 103;12. kapitel – landsforræderi og andre forbrydelser mod statens selvstændighed og sikkerhed
+70151;Erhvervsmæssigt samarbejde med fjenden;Straffelov § 104;12. kapitel – landsforræderi og andre forbrydelser mod statens selvstændighed og sikkerhed
+70161;Utilbørligt forhold til besættelsesmagt;Straffelov § 105;12. kapitel – landsforræderi og andre forbrydelser mod statens selvstændighed og sikkerhed
+70163;Diplomatisk landsforræderi;Straffelov § 106;12. kapitel – landsforræderi og andre forbrydelser mod statens selvstændighed og sikkerhed
+70165;Spionage;Straffelov § 107;12. kapitel – landsforræderi og andre forbrydelser mod statens selvstændighed og sikkerhed
+70171;Hjælp til fremmed efterretningstjeneste;Straffelov § 108;12. kapitel – landsforræderi og andre forbrydelser mod statens selvstændighed og sikkerhed
+70173;Videregivelse af hemmelige forhandlinger;Straffelov § 109;12. kapitel – landsforræderi og andre forbrydelser mod statens selvstændighed og sikkerhed
+70175;Forfalskning af dokumentation af betydning for staten;Straffelov § 110;12. kapitel – landsforræderi og andre forbrydelser mod statens selvstændighed og sikkerhed
+70181;Offentlig beskrivelse af militære anlæg;Straffelov § 110a;12. kapitel – landsforræderi og andre forbrydelser mod statens selvstændighed og sikkerhed
+70185;Neutralitetskrænkelser mod staten;Straffelov § 110b;12. kapitel – landsforræderi og andre forbrydelser mod statens selvstændighed og sikkerhed
+70187;Overtrædelse af forbud til værn for staten;Straffelov § 110c;12. kapitel – landsforræderi og andre forbrydelser mod statens selvstændighed og sikkerhed
+70191;Forbrydelse mod fremmed statsoverhoved;Straffelov § 110d;12. kapitel – landsforræderi og andre forbrydelser mod statens selvstændighed og sikkerhed
+70194;Offentlig forhånelse af fremmed nation;Straffelov § 110e;12. kapitel – landsforræderi og andre forbrydelser mod statens selvstændighed og sikkerhed
+70211;Oprør;Straffelov § 111;13. kapitel – forbrydelser mod statsforfatningen og de øverste statsmyndigheder, terrorisme m.v.
+70221;Forbrydelse mod den danske regent;Straffelov § 112;13. kapitel – forbrydelser mod statsforfatningen og de øverste statsmyndigheder, terrorisme m.v.
+70231;Tvang overfor folketinget;Straffelov § 113;13. kapitel – forbrydelser mod statsforfatningen og de øverste statsmyndigheder, terrorisme m.v.
+70241;Ulovlig korpsvirksomhed;Straffelov § 114;13. kapitel – forbrydelser mod statsforfatningen og de øverste statsmyndigheder, terrorisme m.v.
+70242;Terrorisme;Straffelov § 114;13. kapitel – forbrydelser mod statsforfatningen og de øverste statsmyndigheder, terrorisme m.v.
+70243;Terrorisme, økonomisk støtte til;Straffelov § 114a;13. kapitel – forbrydelser mod statsforfatningen og de øverste statsmyndigheder, terrorisme m.v.
+70244;Terrorisme, tilskyndelse til;Straffelov § 114b;13. kapitel – forbrydelser mod statsforfatningen og de øverste statsmyndigheder, terrorisme m.v.
+70245;Samfundsorden, forstyrrelse af/økonomisk støtte;Straffelov § 114c;13. kapitel – forbrydelser mod statsforfatningen og de øverste statsmyndigheder, terrorisme m.v.
+70246;Ulovligt militær, medlem af;Straffelov § 114d;13. kapitel – forbrydelser mod statsforfatningen og de øverste statsmyndigheder, terrorisme m.v.
+70247;Masseødelæggelsesvåben, spredning af;Straffelov § 114e;13. kapitel – forbrydelser mod statsforfatningen og de øverste statsmyndigheder, terrorisme m.v.
+70248;Terrorisme/modtage økonomisk støtte;Straffelov § 114i;13. kapitel – forbrydelser mod statsforfatningen og de øverste statsmyndigheder, terrorisme m.v.
+70249;Ulovlig indrejse/ophold i konfliktområde;Straffelov § 114j;13. kapitel – forbrydelser mod statsforfatningen og de øverste statsmyndigheder, terrorisme m.v.
+70251;Forbrydelse mod kongehuset i øvrigt;Straffelov § 115;13. kapitel – forbrydelser mod statsforfatningen og de øverste statsmyndigheder, terrorisme m.v.
+70261;Forhindring af folketingsvalg mv.;Straffelov § 116;13. kapitel – forbrydelser mod statsforfatningen og de øverste statsmyndigheder, terrorisme m.v.
+70271;Uberettiget deltagelse i folketingsvalg;Straffelov § 117;13. kapitel – forbrydelser mod statsforfatningen og de øverste statsmyndigheder, terrorisme m.v.
+70281;Tvang mod offentlig myndighed mv.;Straffelov § 118;13. kapitel – forbrydelser mod statsforfatningen og de øverste statsmyndigheder, terrorisme m.v.
+70291;Terrorisme, Europakonventionen;Straffelov § 114a;13. kapitel – forbrydelser mod statsforfatningen og de øverste statsmyndigheder, terrorisme m.v.
+70292;Terrorisme, økonomisk støtte til;Straffelov § 114b;13. kapitel – forbrydelser mod statsforfatningen og de øverste statsmyndigheder, terrorisme m.v.
+70293;Terrorisme, hvervning;Straffelov § 114c;13. kapitel – forbrydelser mod statsforfatningen og de øverste statsmyndigheder, terrorisme m.v.
+70294;Terrorisme, oplæring;Straffelov § 114d;13. kapitel – forbrydelser mod statsforfatningen og de øverste statsmyndigheder, terrorisme m.v.
+70295;Terrorisme, tilskyndelse til;Straffelov § 114e;13. kapitel – forbrydelser mod statsforfatningen og de øverste statsmyndigheder, terrorisme m.v.
+70296;Samfundsorden, forstyrrelse af/økonomisk støtte;Straffelov § 114f;13. kapitel – forbrydelser mod statsforfatningen og de øverste statsmyndigheder, terrorisme m.v.
+70297;Ulovligt militær, medlem af;Straffelov § 114g;13. kapitel – forbrydelser mod statsforfatningen og de øverste statsmyndigheder, terrorisme m.v.
+70298;Masseødelæggelsesvåben, spredning af;Straffelov § 114h;13. kapitel – forbrydelser mod statsforfatningen og de øverste statsmyndigheder, terrorisme m.v.
+70300;Vold eller trussel mod polititjenestemand (Ny fra 2005);Straffelov § 119, stk. 1;14. kapitel – forbrydelser mod den offentlige myndighed m.v.
+70301;Trusler om vold mv. mod overordnet polititjenestemand (Ny fra 2005);Straffelov § 119, stk. 2;14. kapitel – forbrydelser mod den offentlige myndighed m.v.
+70303;Lægge hindring i vejen for udførelse (polititjenestemand) (Udgået 2019);Straffelov § 119, stk. 3;14. kapitel – forbrydelser mod den offentlige myndighed m.v.
+70304;Lægge hindringer i vejen for udførelse (polititjenestemand) (Ny fra 2019);Straffelov § 119, stk. 4;14. kapitel – forbrydelser mod den offentlige myndighed m.v.
+70305;Vold mod polititjenestemand;Straffelov § 119, stk. 1;14. kapitel – forbrydelser mod den offentlige myndighed m.v.
+70306;Trussel mod polititjenestemand;Straffelov § 119, stk. 1;14. kapitel – forbrydelser mod den offentlige myndighed m.v.
+70307;Vold mod nogen i offentlig tjeneste;Straffelov § 119, stk. 1;14. kapitel – forbrydelser mod den offentlige myndighed m.v.
+70308;Trussel om vold mod nogen i offentlig tjeneste;Straffelov § 119, stk. 1;14. kapitel – forbrydelser mod den offentlige myndighed m.v.
+70310;Lægge hindring i vejen for udførelse af offentlig myndighed (Ny fra 2019);Straffelov § 119, stk. 4;14. kapitel – forbrydelser mod den offentlige myndighed m.v.
+70311;Vold o.l. mod nogen i offentlig tjeneste mv.;Straffelov § 119, stk. 1;14. kapitel – forbrydelser mod den offentlige myndighed m.v.
+70312;Trusler om vold mv. mod offentlig myndighed;Straffelov § 119, stk. 2;14. kapitel – forbrydelser mod den offentlige myndighed m.v.
+70313;Hindring af offentlig myndighed (Udgået 2019);Straffelov § 119, stk. 3;14. kapitel – forbrydelser mod den offentlige myndighed m.v.
+70314;Lægge hindring i vejen for udførelsen af offentlig myndighed, skærpende omstændigheder (Udgået 2019);Straffelov § 119, stk. 3, 2. pkt.;14. kapitel – forbrydelser mod den offentlige myndighed m.v.
+70315;Fredskrænkelse af person i offentlig tjeneste;Straffelov § 119a;14. kapitel – forbrydelser mod den offentlige myndighed m.v.
+70316;Vold mod politi mv. ved opløb/opstand;Straffelov § 120;14. kapitel – forbrydelser mod den offentlige myndighed m.v.
+70317;Lægge hindring i vejen for udførelse af offentlig myndighed, skærpende (Ny fra 2019);Straffelov § 119, stk. 4, 2. pkt.;14. kapitel – forbrydelser mod den offentlige myndighed m.v.
+70318;Fornærmelig tiltale mod polititjenestemand;Straffelov § 121;14. kapitel – forbrydelser mod den offentlige myndighed m.v.
+70321;Fornærmelig tiltale af offentlig myndighed;Straffelov § 121;14. kapitel – forbrydelser mod den offentlige myndighed m.v.
+70322;Bestikkelse af offentlig myndighed;Straffelov § 122;14. kapitel – forbrydelser mod den offentlige myndighed m.v.
+70323;Trusler, vold o.l. mod vidner og deres nærmeste;Straffelov § 123;14. kapitel – forbrydelser mod den offentlige myndighed m.v.
+70325;Trusler og lignende mod vidner og deres nærmeste;Straffelov § 123;14. kapitel – forbrydelser mod den offentlige myndighed m.v.
+70326;Vold mod vidner og deres nærmeste;Straffelov § 123;14. kapitel – forbrydelser mod den offentlige myndighed m.v.
+70331;Hjælp til undvigelse;Straffelov § 124, stk. 1;14. kapitel – forbrydelser mod den offentlige myndighed m.v.
+70332;Fanger mv., ulovlig forbindelse med;Straffelov § 124, stk. 1;14. kapitel – forbrydelser mod den offentlige myndighed m.v.
+70335;Fange, flygtet;Straffelov § 124, stk. 1;14. kapitel – forbrydelser mod den offentlige myndighed m.v.
+70336;Hjælp til undvigelse;Straffelov § 124, stk. 2;14. kapitel – forbrydelser mod den offentlige myndighed m.v.
+70337;Ulovlig forbindelse med fanger mv.;Straffelov § 124, stk. 4;14. kapitel – forbrydelser mod den offentlige myndighed m.v.
+70338;Frihedsberøvet, uretmæssig besiddelse af mobiltelefon o.l.;Straffelov § 124, stk. 5, 1. pkt.;14. kapitel – forbrydelser mod den offentlige myndighed m.v.
+70339;Besøgende, uretmæssig medtager mobiltelefon mv.;Straffelov § 124, stk. 5, 2. pkt.;14. kapitel – forbrydelser mod den offentlige myndighed m.v.
+70340;Forvaring, uretmæssig besiddelse af mobiltelefon o.l.;Straffelov § 124, stk. 5;14. kapitel – forbrydelser mod den offentlige myndighed m.v.
+70341;Hindring af strafforfølgning/-fuldbyrdelse;Straffelov § 125;14. kapitel – forbrydelser mod den offentlige myndighed m.v.
+70342;Opholdsforbud ved dom, overtrædelse;Straffelov § 124a;14. kapitel – forbrydelser mod den offentlige myndighed m.v.
+70345;Menneskesmugling, skærpende omstændighed;Straffelov § 125a;14. kapitel – forbrydelser mod den offentlige myndighed m.v.
+70351;Ødelæggelse af offentlig segl/mærke;Straffelov § 126, stk. 1;14. kapitel – forbrydelser mod den offentlige myndighed m.v.
+70352;Ødelæggelse af offentlig bekendtgørelse;Straffelov § 126, stk. 2;14. kapitel – forbrydelser mod den offentlige myndighed m.v.
+70361;Unddragelse fra værnepligt;Straffelov § 127;14. kapitel – forbrydelser mod den offentlige myndighed m.v.
+70365;Ulovlig hvervning;Straffelov § 128;14. kapitel – forbrydelser mod den offentlige myndighed m.v.
+70371;Offentliggøre fortrolige forhandlinger mv.;Straffelov § 129;14. kapitel – forbrydelser mod den offentlige myndighed m.v.
+70375;Offentliggørelse af usandt mødereferat;Straffelov § 129a;14. kapitel – forbrydelser mod den offentlige myndighed m.v.
+70376;Besidde/anvende forbudt forenings kendetegn;Straffelov § 132 a, stk. 2;14. kapitel – forbrydelser mod den offentlige myndighed m.v.
+70379;Opholdsforbud, overtrædelse af (forbudt forening);Straffelov § 132 b, stk. 4;14. kapitel – forbrydelser mod den offentlige myndighed m.v.
+70380;Ej efterk. påbud - deltage i forsamling (forbudt forening);Straffelov § 132 b, stk. 5;14. kapitel – forbrydelser mod den offentlige myndighed m.v.
+70381;Uberettiget udøvelse af offentlig myndighed;Straffelov § 130;14. kapitel – forbrydelser mod den offentlige myndighed m.v.
+70385;Foregivelse af offentlig myndighed;Straffelov § 131, stk. 1;14. kapitel – forbrydelser mod den offentlige myndighed m.v.
+70386;Udøver virksomhed uden offentlig bevilling;Straffelov § 131, stk. 1;14. kapitel – forbrydelser mod den offentlige myndighed m.v.
+70387;Medvirken til udøvelse af virksomhed trods frakendelse;Straffelov § 131, stk. 2;14. kapitel – forbrydelser mod den offentlige myndighed m.v.
+70391;Uberettiget brug af uniform mv.;Straffelov § 132;14. kapitel – forbrydelser mod den offentlige myndighed m.v.
+70397;Deltagelse i forbudt forening;Straffelov § 132a, stk. 1;14. kapitel – forbrydelser mod den offentlige myndighed m.v.
+70411;Ledelse og fremkaldelse af opløb;Straffelov § 133;15. kapitel – forbrydelser mod den offentlige orden og fred
+70415;Ikke efterkomme påbud om at skilles;Straffelov § 134;15. kapitel – forbrydelser mod den offentlige orden og fred
+70421;Grov forstyrrelse af offentlig ro og orden;Straffelov § 134a;15. kapitel – forbrydelser mod den offentlige orden og fred
+70422;Maskering, forbud mod;Straffelov § 134b;15. kapitel – forbrydelser mod den offentlige orden og fred
+70423;Misbrug af faresignal mv.;Straffelov § 135;15. kapitel – forbrydelser mod den offentlige orden og fred
+70425;Offentlig tilskyndelse til forbrydelse;Straffelov § 136, stk. 1 og 2;15. kapitel – forbrydelser mod den offentlige orden og fred
+70428;Billigelse af forbrydelse ved religiøs oplæring;Straffelov § 136, stk. 3;15. kapitel – forbrydelser mod den offentlige orden og fred
+70431;Hindring af offentlig forsamling;Straffelov § 137, stk. 1;15. kapitel – forbrydelser mod den offentlige orden og fred
+70432;Forstyrrelse af folketingets møder o.l.;Straffelov § 137, stk. 2;15. kapitel – forbrydelser mod den offentlige orden og fred
+70441;Farlig beruselse;Straffelov § 138;15. kapitel – forbrydelser mod den offentlige orden og fred
+70451;Krænkelse af gravfreden;Straffelov § 139, stk. 1;15. kapitel – forbrydelser mod den offentlige orden og fred
+70452;Usømmelig behandling af kirken;Straffelov § 139, stk. 2;15. kapitel – forbrydelser mod den offentlige orden og fred
+70461;Offentlig forhånelse af trossamfund;Straffelov § 140;15. kapitel – forbrydelser mod den offentlige orden og fred
+70463;Undlade at forhindre forbrydelse;Straffelov § 141;15. kapitel – forbrydelser mod den offentlige orden og fred
+70471;Undladelse af bistand til offentlig myndighed;Straffelov § 142;15. kapitel – forbrydelser mod den offentlige orden og fred
+70475;Tilbageholde oplysninger om en persons uskyld;Straffelov § 143;15. kapitel – forbrydelser mod den offentlige orden og fred
+70511;Offentlig myndigheds modtagelse af bestikkelse;Straffelov § 144;16. kapitel – forbrydelser i offentlig tjeneste eller hverv m.v.
+70515;Ulovlig opkrævning af skat mv.;Straffelov § 145;16. kapitel – forbrydelser i offentlig tjeneste eller hverv m.v.
+70521;Misbrug af domsmyndighed;Straffelov § 146;16. kapitel – forbrydelser i offentlig tjeneste eller hverv m.v.
+70524;Ulovlig håndhævelse af strafmyndighed;Straffelov § 147;16. kapitel – forbrydelser i offentlig tjeneste eller hverv m.v.
+70527;Ulovlig behandling af retssager;Straffelov § 148;16. kapitel – forbrydelser i offentlig tjeneste eller hverv m.v.
+70531;Hindring af dommes fuldbyrdelse;Straffelov § 149;16. kapitel – forbrydelser i offentlig tjeneste eller hverv m.v.
+70541;Misbrug af offentligt hverv;Straffelov § 150;16. kapitel – forbrydelser i offentlig tjeneste eller hverv m.v.
+70551;Tilskyndelse til underordnedes forbrydelse;Straffelov § 151;16. kapitel – forbrydelser i offentlig tjeneste eller hverv m.v.
+70561;Krænkelse af tavshedspligt;Straffelov § 152-152f;16. kapitel – forbrydelser i offentlig tjeneste eller hverv m.v.
+70562;Meddelelseshæleri;Straffelov § 152d;16. kapitel – forbrydelser i offentlig tjeneste eller hverv m.v.
+70571;Tilintetgørelse af post mv.;Straffelov § 153;16. kapitel – forbrydelser i offentlig tjeneste eller hverv m.v.
+70581;Offentlige myndigheders forbrydelse;Straffelov § 154;16. kapitel – forbrydelser i offentlig tjeneste eller hverv m.v.
+70585;Anden misbrug af offentlig stilling/hverv;Straffelov § 155;16. kapitel – forbrydelser i offentlig tjeneste eller hverv m.v.
+70591;Pligtforsømmelse i offentligt hverv;Straffelov § 156;16. kapitel – forbrydelser i offentlig tjeneste eller hverv m.v.
+70595;Skødesløshed i offentligt hverv;Straffelov § 157;16. kapitel – forbrydelser i offentlig tjeneste eller hverv m.v.
+70611;Falsk forklaring for retten;Straffelov § 158;17. kapitel – falsk forklaring og falsk anklage
+70621;Vidne forklaring/fritagelsesgrund;Straffelov § 159;17. kapitel – falsk forklaring og falsk anklage
+70631;Grov uagtsom afgivelse af forklaring;Straffelov § 160;17. kapitel – falsk forklaring og falsk anklage
+70641;Falsk erklæring på tro og love;Straffelov § 161;17. kapitel – falsk forklaring og falsk anklage
+70651;Urigtig forklaring/pligtforhold;Straffelov § 162;17. kapitel – falsk forklaring og falsk anklage
+70661;Anden urigtig skriftlig erklæring;Straffelov § 163;17. kapitel – falsk forklaring og falsk anklage
+70671;Falsk anklage/bevisforvanskelse;Straffelov § 164;17. kapitel – falsk forklaring og falsk anklage
+70672;Tilbageholdt oplysninger om en persons uskyld;Straffelov § 164 a;17. kapitel – falsk forklaring og falsk anklage
+70681;Falsk anmeldelse/klagemål;Straffelov § 165;17. kapitel – falsk forklaring og falsk anklage
+70711;Pengefalsk;Straffelov § 166;18. kapitel – forbrydelser vedrørende betalingsmidler
+70721;Udgivelse af falske penge;Straffelov § 167;18. kapitel – forbrydelser vedrørende betalingsmidler
+70731;Udgivelse af formodede falske penge;Straffelov § 168;18. kapitel – forbrydelser vedrørende betalingsmidler
+70741;Udgivelse af pengelignende genstande;Straffelov § 169;18. kapitel – forbrydelser vedrørende betalingsmidler
+70745;Pengefalsk, elektronisk;Straffelov § 169 a;18. kapitel – forbrydelser vedrørende betalingsmidler
+70751;Ulovlig udfærdigelse af betalingsmiddel;Straffelov § 170;18. kapitel – forbrydelser vedrørende betalingsmidler
+70811;Dokumentfalsk;Straffelov § 171;19. kapitel – forbrydelser vedrørende bevismidler
+70812;Dokumentfalsk ved anvendelse af check;Straffelov § 171;19. kapitel – forbrydelser vedrørende bevismidler
+70813;Dokumentfalsk ved anvendelse af dankort;Straffelov § 171;19. kapitel – forbrydelser vedrørende bevismidler
+70814;Dokumentfalsk ved anvendelse af øvrige kontokort;Straffelov § 171;19. kapitel – forbrydelser vedrørende bevismidler
+70815;Dokumentfalsk ved anvendelse af eurochecks;Straffelov § 171;19. kapitel – forbrydelser vedrørende bevismidler
+70821;Dokumentsvig;Straffelov § 173;19. kapitel – forbrydelser vedrørende bevismidler
+70831;Personelt falsk/misbrug af ægte dokument;Straffelov § 174;19. kapitel – forbrydelser vedrørende bevismidler
+70841;Intellektuelt falsk;Straffelov § 175;19. kapitel – forbrydelser vedrørende bevismidler
+70851;Falsk stempel/mærke mv.;Straffelov § 176;19. kapitel – forbrydelser vedrørende bevismidler
+70861;Falsk stempelmærke/frimærke mv.;Straffelov § 177;19. kapitel – forbrydelser vedrørende bevismidler
+70871;Dokumentundertrykkelse;Straffelov § 178;19. kapitel – forbrydelser vedrørende bevismidler
+70881;Falske skelsten mv.;Straffelov § 179;19. kapitel – forbrydelser vedrørende bevismidler
+71111;Brandstiftelse, kvalificeret;Straffelov § 180;20. kapitel – almenfarlige forbrydelser
+71121;Brandstiftelse, forsætlig;Straffelov § 181;20. kapitel – almenfarlige forbrydelser
+71131;Brandstiftelse, uagtsom;Straffelov § 182;20. kapitel – almenfarlige forbrydelser
+71211;Sprængning mv., transportulykke;Straffelov § 183, stk. 1;20. kapitel – almenfarlige forbrydelser
+71212;Livsfarlig sprængning mv., transportulykke;Straffelov § 183, stk. 2;20. kapitel – almenfarlige forbrydelser
+71213;Uagtsom sprængning mv., transportulykke;Straffelov § 183, stk. 3;20. kapitel – almenfarlige forbrydelser
+71221;Kapring af fly/skib mv.;Straffelov § 183a;20. kapitel – almenfarlige forbrydelser
+71224;Forstyrrelse af transportmidler;Straffelov § 184;20. kapitel – almenfarlige forbrydelser
+71231;Undladt at afværge ildebrand o.l.;Straffelov § 185;20. kapitel – almenfarlige forbrydelser
+71241;Forgiftning af drikkevand;Straffelov § 186;20. kapitel – almenfarlige forbrydelser
+71244;Fortielse/udbredelse af sundhedsfarlige ting;Straffelov § 187;20. kapitel – almenfarlige forbrydelser
+71251;Udbredelse af sundhedsfarlige genstande;Straffelov § 188;20. kapitel – almenfarlige forbrydelser
+71261;Ulovlig udbredelse af lægemidler;Straffelov § 189;20. kapitel – almenfarlige forbrydelser
+71271;Udsat dyrs sundhed for fare;Straffelov § 190;20. kapitel – almenfarlige forbrydelser
+71281;Salg af narkotika;Straffelov § 191, stk. 1;20. kapitel – almenfarlige forbrydelser
+71282;Smugling mv. af narkotika;Straffelov § 191, stk. 2;20. kapitel – almenfarlige forbrydelser
+71285;Narkotikahæleri;Straffelov § 191a;20. kapitel – almenfarlige forbrydelser
+71286;Dopingmidler, salg af (skærpende omstændigheder);Straffelov § 191a, stk. 1;20. kapitel – almenfarlige forbrydelser
+71287;Dopingmidler, smugling mv. (skærpende omstændigheder);Straffelov § 191a, stk. 2;20. kapitel – almenfarlige forbrydelser
+71289;Skydevåben, særligt skærpende, offentligt sted;Straffelov § 192a, stk. 1, nr. 1;20. kapitel – almenfarlige forbrydelser
+71290;Skydevåben, særligt skærpende, ikke offentligt sted;Straffelov § 192a, stk. 1, nr. 1;20. kapitel – almenfarlige forbrydelser
+71291;Forvoldt fare for epidemi;Straffelov § 192;20. kapitel – almenfarlige forbrydelser
+71292;Våben og sprængstof, særdeles farlige;Straffelov § 192a;20. kapitel – almenfarlige forbrydelser
+71293;Radioaktive stoffer, besiddelse/anvendelse af;Straffelov § 192b;20. kapitel – almenfarlige forbrydelser
+71294;Våben og sprængstof, under særlig skærpende omstændighed;Straffelov § 192a, stk. 1;20. kapitel – almenfarlige forbrydelser
+71295;Våben og sprængstof, særlig farlig;Straffelov § 192a, stk. 2;20. kapitel – almenfarlige forbrydelser
+71296;Skydevåben, særlig skærpende omstændigheder;Straffelov § 192a, stk. 1, nr. 1;20. kapitel – almenfarlige forbrydelser
+71297;Andre særdeles farlige våben eller eksplosive stoffer, særlig skærpende omstændigheder;Straffelov § 192a, stk. 1, nr. 2;20. kapitel – almenfarlige forbrydelser
+71298;Andre våben eller eksplosivstoffer, særlig skærpende omstændigheder;Straffelov § 192a, stk. 2;20. kapitel – almenfarlige forbrydelser
+71311;Forstyrrelse af samfærdselsmidlerne;Straffelov § 193;21. kapitel – forskellige almenskadelige handlinger
+71321;Ødelæggelse af mindesmærker o.l.;Straffelov § 194;21. kapitel – forskellige almenskadelige handlinger
+71331;Salg af forfalskede levnedsmidler;Straffelov § 195;21. kapitel – forskellige almenskadelige handlinger
+71341;Miljø, forurening med betydelig skade;Straffelov § 196;21. kapitel – forskellige almenskadelige handlinger
+71351;Handel med vilde dyr og planter, skærpende omstændigheder;Straffelov §196a;21. kapitel – forskellige almenskadelige handlinger
+71411;Betleri, overtrædelse;Straffelov § 197;21. kapitel – forskellige almenskadelige handlinger
+71412;Betleri, meddelt advarsel (påbud);Straffelov § 197;22. kapitel – betleri og skadelig erhvervsvirksomhed
+71421;Løsgængeri;Straffelov § 198;22. kapitel – betleri og skadelig erhvervsvirksomhed
+71431;Ulovligt erhverv;Straffelov § 199;22. kapitel – betleri og skadelig erhvervsvirksomhed
+71441;Erhvervsmæssig udnyttelse, spekulation;Straffelov § 202;22. kapitel – betleri og skadelig erhvervsvirksomhed
+71451;Hasard/væddemål;Straffelov § 203, stk. 1;22. kapitel – betleri og skadelig erhvervsvirksomhed
+71461;Hasard på offentligt sted;Straffelov § 204;22. kapitel – betleri og skadelig erhvervsvirksomhed
+71471;Svigagtig forledelse til udvandring;Straffelov § 206;22. kapitel – betleri og skadelig erhvervsvirksomhed
+72111;Bigami, den gifte person;Straffelov § 208, stk. 1;23. kapitel – forbrydelser i familieforhold
+72112;Groft uagtsom bigami;Straffelov § 208, stk. 2;23. kapitel – forbrydelser i familieforhold
+72113;Bigami, den ugifte person;Straffelov § 208, stk. 3;23. kapitel – forbrydelser i familieforhold
+72121;Blodskam, børn under 15 år;Straffelov § 210, stk. 1;23. kapitel – forbrydelser i familieforhold
+72122;Blodskam i øvrigt;Straffelov § 210, stk. 1;23. kapitel – forbrydelser i familieforhold
+72123;Blodskam mellem søskende, børn under 15 år;Straffelov § 210, stk. 2;23. kapitel – forbrydelser i familieforhold
+72124;Blodskam i øvrigt, mellem søskende;Straffelov § 210, stk. 2;23. kapitel – forbrydelser i familieforhold
+72125;Blodskam, anden kønslig omgang, børn under 15 år (Udgået 2013);Straffelov § 210, stk. 3;23. kapitel – forbrydelser i familieforhold
+72126;Blodskam, anden kønslig omgang mellem søskende (Udgået 2013);Straffelov § 210, stk. 3;23. kapitel – forbrydelser i familieforhold
+72127;Blodskam i øvrigt, anden kønslig omgang (Udgået 2013);Straffelov § 210, stk. 3;23. kapitel – forbrydelser i familieforhold
+72128;Blodskam, andet seksuelt forhold (børn under 15 år) (Ny fra 2013);Straffelov § 210, stk. 3;23. kapitel – forbrydelser i familieforhold
+72129;Blodskam, andet seksuelt forhold mellem søskende (Ny fra 2013);Straffelov § 210, stk. 3;23. kapitel – forbrydelser i familieforhold
+72130;Blodskam i øvrigt, andet seksuelt forhold (Ny fra 2013);Straffelov § 210, stk. 3;23. kapitel – forbrydelser i familieforhold
+72131;Vanrøgt;Straffelov § 213, stk. 1;23. kapitel – forbrydelser i familieforhold
+72141;Falsk fødselsanmeldelse;Straffelov § 214, stk. 1;23. kapitel – forbrydelser i familieforhold
+72151;Unddragelse af forældremyndighed;Straffelov § 215;23. kapitel – forbrydelser i familieforhold
+72153;Bortsendelse af barn til udlandet, fare for sundhed/udvikling ;Straffelov § 215 a;23. kapitel – forbrydelser i familieforhold
+72211;Voldtægt (Udgået 2013);Straffelov § 216;24. kapitel – seksualforbrydelser
+72215;Samleje med ulovlig tvang (Udgået 2013);Straffelov § 217;24. kapitel – seksualforbrydelser
+72221;Samleje ved udnyttelse af psykisk abnormitet (Udgået 2013);Straffelov § 218;24. kapitel – seksualforbrydelser
+72222;Samleje ved udnyttelse af hjælpeløs tilstand (Udgået 2013);Straffelov § 218, stk. 2;24. kapitel – seksualforbrydelser
+72225;Samleje med institutionsanbragt (Udgået 2013);Straffelov § 219;24. kapitel – seksualforbrydelser
+72227;Samleje ved misbrug af afhængigheds forhold (Udgået 2013);Straffelov § 220;24. kapitel – seksualforbrydelser
+72229;Tilsnigelse til samleje (Udgået 2013);Straffelov § 221;24. kapitel – seksualforbrydelser
+72230;Samleje med prostitueret under 18 år, kunde (Udgået 2013);Straffelov § 223a;24. kapitel – seksualforbrydelser
+72231;Samleje med barn under 15 år (Udgået 2013);Straffelov § 222, stk. 1;24. kapitel – seksualforbrydelser
+72232;Samleje med barn under 12 år, skærpende omstændigheder (Udgået 2013);Straffelov § 222, stk. 2;24. kapitel – seksualforbrydelser
+72233;Samleje med plejebarn/stedbarn mv. (Udgået 2013);Straffelov § 223, stk. 1;24. kapitel – seksualforbrydelser
+72234;Samleje ved forførelse (Udgået 2013);Straffelov § 223, stk. 2;24. kapitel – seksualforbrydelser
+72235;Anden kønslig omgang ved vold (Udgået 2013);Straffelov § 224 jf. 216;24. kapitel – seksualforbrydelser
+72236;Anden kønslig omgang ved ulovlig tvang (Udgået 2013);Straffelov § 224 jf. 217;24. kapitel – seksualforbrydelser
+72237;Anden kønslig omgang ved udnyttelse af psykisk abnormitet (Udgået 2013) ;Straffelov § 224 jf. 218;24. kapitel – seksualforbrydelser
+72238;Anden kønslig omgang med institutionsanbragt (Udgået 2013);Straffelov § 224 jf. 219;24. kapitel – seksualforbrydelser
+72239;Anden kønslig omgang ved misbrug af afhængighedsforhold (Udgået 2013);Straffelov § 224 jf. 220;24. kapitel – seksualforbrydelser
+72241;Anden kønslig omgang ved tilsnigelse (Udgået 2013);Straffelov § 224 jf. 221;24. kapitel – seksualforbrydelser
+72242;Anden kønslig omgang med barn under 15 år (Udgået 2013);Straffelov § 224 jf. 222, stk. 1;24. kapitel – seksualforbrydelser
+72243;Anden kønslig omgang med barn under 12 år (Udgået 2013);Straffelov § 224 jf. 222, stk. 2;24. kapitel – seksualforbrydelser
+72244;Anden kønslig omgang med plejebarn/stedbarn (Udgået 2013);Straffelov § 224 jf. 223, stk. 1;24. kapitel – seksualforbrydelser
+72245;Anden kønslig omgang ved forførelse (Udgået 2013);Straffelov § 224 jf. 223, stk. 2;24. kapitel – seksualforbrydelser
+72251;Homoseksuel sædelighedsforbrydelse mod barn under 15 år (Udgået 2013);Straffelov § 225;24. kapitel – seksualforbrydelser
+72252;Homoseksuel sædelighedsforbrydelse mod barn under 12 år (Udgået 2013);Straffelov § 225;24. kapitel – seksualforbrydelser
+72253;Homoseksuel sædelighedsforbrydelse i øvrigt (Udgået 2013);Straffelov § 225;24. kapitel – seksualforbrydelser
+72254;Homoseksuel sædelighedsforbrydelse ved vold (Udgået 2013);Straffelov § 225 jf. 216;24. kapitel – seksualforbrydelser
+72255;Homoseksuel sædelighedsforbrydelse ved ulovlig tvang (Udgået 2013);Straffelov § 225 jf. 217;24. kapitel – seksualforbrydelser
+72256;Homoseksuel sædelighedsforbrydelse ved vold mod barn under 15 år (Udgået 2013);Straffelov § 225 jf. 216;24. kapitel – seksualforbrydelser
+72257;Homoseksuel sædelighedsforbrydelse ved ulovlig tvang mod barn under 15 år (Udgået 2013);Straffelov § 225 jf. 217;24. kapitel – seksualforbrydelser
+72258;Homoseksuel sædelighedsforbrydelse ved vold mod barn under 12 år (Udgået 2013);Straffelov § 225 jf. 216;24. kapitel – seksualforbrydelser
+72259;Homoseksuel sædelighedsforbrydelse ved ulovlig tvang mod barn under 12 år (Udgået 2013);Straffelov § 225 jf. 217;24. kapitel – seksualforbrydelser
+72261;Uagtsom seksualforbrydelse med barn under 15 år (Udgået 2013);Straffelov § 226 jf. 222, stk. 1;24. kapitel – seksualforbrydelser
+72262;Uagtsom seksualforbrydelse med barn under 12 år;Straffelov § 226 jf. 222, stk. 2;24. kapitel – seksualforbrydelser
+72263;Uagtsom seksualforbrydelse i øvrigt (Udgået 2013);Straffelov § 226;24. kapitel – seksualforbrydelser
+72271;Rufferi (Udgået 2013);Straffelov § 228;24. kapitel – seksualforbrydelser
+72275;Fremmelse af utugt (Udgået 2013);Straffelov § 229, stk. 1;24. kapitel – seksualforbrydelser
+72276;Udlejning af værelse til utugt (Udgået 2013);Straffelov § 229, stk. 2;24. kapitel – seksualforbrydelser
+72277;Alfonseri, underhold;Straffelov § 229, stk. 3;24. kapitel – seksualforbrydelser
+72278;Alfonseri, dele bolig;Straffelov § 229, stk. 4;24. kapitel – seksualforbrydelser
+72280;Utugtig foto/filmoptagelse af person under 18 år (Udgået 2013);Straffelov § 230;24. kapitel – seksualforbrydelser
+72281;Blufærdighedskrænkelse;Straffelov;24. kapitel – seksualforbrydelser
+72282;Blufærdighedskrænkelse ved beføling (Udgået 2013);Straffelov § 232;24. kapitel – seksualforbrydelser
+72283;Blufærdighedskrænkelse ved blotteri (Udgået 2013);Straffelov § 232;24. kapitel – seksualforbrydelser
+72284;Blufærdighedskrænkelse ved beluring (Udgået 2013);Straffelov § 232;24. kapitel – seksualforbrydelser
+72285;Blufærdighedskrænkelse ved verbal uterlighed o.l. (Udgået 2013);Straffelov § 232;24. kapitel – seksualforbrydelser
+72286;Blufærdighedskrænkelse ved anden uterlighed (Udgået 2013);Straffelov § 232;24. kapitel – seksualforbrydelser
+72287;Blufærdighedskrænkelse i øvrigt (Udgået 2013);Straffelov § 232;24. kapitel – seksualforbrydelser
+72291;Forulemper ved opfordring mv. til utugt (Udgået 2013);Straffelov § 233;24. kapitel – seksualforbrydelser
+72292;Rekruttere/medvirke til utugtig optræden af personer under 18 år (Udgået 2013);Straffelov § 235a, stk.1;24. kapitel – seksualforbrydelser
+72293;Overvære utugtig optræden af personer under 18 år (Udgået 2013);Straffelov § 235a, stk. 2;24. kapitel – seksualforbrydelser
+72295;Pornografi (Udgået 2013);Straffelov § 234;24. kapitel – seksualforbrydelser
+72296;Børnepornografi (Udgået 2013);Straffelov § 235, stk. 1;24. kapitel – seksualforbrydelser
+72297;Overtrædelse af pålæg (Udgået 2013);Straffelov § 236, stk. 4;24. kapitel – seksualforbrydelser
+72298;Meddelt pålæg (Udgået 2013);Straffelov;24. kapitel – seksualforbrydelser
+72299;Børnepornografi, besiddelse af/bekendt med (Udgået 2013);Straffelov § 235, stk. 2;24. kapitel – seksualforbrydelser
+72301;Voldtægt ved anvendelse af vold eller trussel om vold (Ny fra 2013);Straffelov § 216, stk. 1, nr. 1;24. kapitel – seksualforbrydelser
+72302;Voldtægt ved ulovlig tvang (Ny fra 2013);Straffelov § 216, stk. 1, nr. 2, 1. led;24. kapitel – seksualforbrydelser
+72303;Voldtægt ved udnyttelse af hjælpeløs tilstand (Ny fra 2013);Straffelov § 216, stk. 1, nr. 2, 2. led;24. kapitel – seksualforbrydelser
+72304;Voldtægt ved samleje med barn under 12 år (Ny fra 2013);Straffelov § 216, stk. 2;24. kapitel – seksualforbrydelser
+72311;Samleje ved udnyttelse af psykisk abnormitet (Ny fra 2013);Straffelov § 218;24. kapitel – seksualforbrydelser
+72313;Samleje med institutionsanbragt/frihedsberøvet (Ny fra 2013);Straffelov § 219;24. kapitel – seksualforbrydelser
+72315;Samleje ved misbrug af afhængighedsforhold (Ny fra 2013);Straffelov § 220;24. kapitel – seksualforbrydelser
+72317;Tilsnigelse til samleje (Ny fra 2013);Straffelov § 221;24. kapitel – seksualforbrydelser
+72319;Samleje med barn under 15 år (Ny fra 2013);Straffelov § 222;24. kapitel – seksualforbrydelser
+72321;Samleje med plejebarn/stedbarn mv. (Ny fra 2013);Straffelov § 223, stk. 1;24. kapitel – seksualforbrydelser
+72322;Samleje ved forførelse (Ny fra 2013);Straffelov § 223, stk. 2;24. kapitel – seksualforbrydelser
+72324;Medvirken til prostitution (samleje) - person under 18 år (Ny fra 2013);Straffelov § 224, stk. 1;24. kapitel – seksualforbrydelser
+72325;Samleje med prostitueret under 18 år - kunde (Ny fra 2013);Straffelov § 224, stk. 2;24. kapitel – seksualforbrydelser
+72331;Andet seksuelt forhold ved vold eller trussel om vold (Ny fra 2013);Straffelov § 225 jf. 216, stk. 1, nr. 1;24. kapitel – seksualforbrydelser
+72332;Andet seksuelt forhold ved ulovlig tvang (Ny fra 2013);Straffelov § 225 jf. 216, stk. 1,2, 1. led;24. kapitel – seksualforbrydelser
+72333;Andet seksuelt forhold ved udnyttelse af hjælpeløs tilstand (Ny fra 2013);Straffelov § 225 jf. 216, stk. 1,2, 2. led;24. kapitel – seksualforbrydelser
+72334;Andet seksuelt forhold med barn under 12 år (Ny fra 2013);Straffelov § 225 jf. 216, stk. 2;24. kapitel – seksualforbrydelser
+72335;Andet seksuelt forhold ved udnyttelse af psykisk abnormitet (Ny fra 2013);Straffelov § 225 jf. 218;24. kapitel – seksualforbrydelser
+72336;Andet seksuelt forhold med institutionsanbragt/frihedsberøvet (Ny fra 2013);Straffelov § 225 jf. 219;24. kapitel – seksualforbrydelser
+72337;Andet seksuelt forhold ved misbrug af afhængighedsforhold (Ny fra 2013);Straffelov § 225 jf. 220;24. kapitel – seksualforbrydelser
+72338;Andet seksuelt forhold ved tilsnigelse (Ny fra 2013);Straffelov § 225 jf. 221;24. kapitel – seksualforbrydelser
+72339;Andet seksuelt forhold med barn under 15 år (Ny fra 2013);Straffelov § 225 jf. 222;24. kapitel – seksualforbrydelser
+72340;Andet seksuelt forhold med plejebarn/stedbarn mv. (Ny fra 2013);Straffelov § 225 jf. 223, stk. 1;24. kapitel – seksualforbrydelser
+72341;Andet seksuelt forhold ved forførelse (Ny fra 2013);Straffelov § 225 jf. 223, stk. 2;24. kapitel – seksualforbrydelser
+72342;Medvirken til andet seksuelt forhold i forbindelse med prostitution af person under 18 år (Ny fra 2013);Straffelov § 225 jf. 224, stk. 1;24. kapitel – seksualforbrydelser
+72343;Andet seksuelt forhold end samleje med prostitueret under 18 år - kunde (Ny fra 2013);Straffelov § 225 jf. 224, stk. 2;24. kapitel – seksualforbrydelser
+72351;Pornografiske foto/filmoptagelser af person under 18 år (Ny fra 2013);Straffelov § 226;24. kapitel – seksualforbrydelser
+72353;Medvirken til pornografisk optræden af person under 18 år (Ny fra 2013);Straffelov § 227, stk. 1;24. kapitel – seksualforbrydelser
+72354;Overvære pornografisk optræden af person under 18 år (Ny fra 2013);Straffelov § 227, stk. 2;24. kapitel – seksualforbrydelser
+72361;Uagtsom seksualforbrydelse mod barn under 15 år (Ny fra 2013);Straffelov § 228, jf. 222;24. kapitel – seksualforbrydelser
+72362;Uagtsom seksualforbrydelse i øvrigt (Ny fra 2013);Straffelov § 228;24. kapitel – seksualforbrydelser
+72371;Blufærdighedskrænkelse ved beføling (Ny fra 2013);Straffelov § 232;24. kapitel – seksualforbrydelser
+72372;Blufærdighedskrænkelse ved blotteri (Ny fra 2013);Straffelov § 232;24. kapitel – seksualforbrydelser
+72373;Blufærdighedskrænkelse ved beluring (Ny fra 2013);Straffelov § 232;24. kapitel – seksualforbrydelser
+72374;Blufærdighedskrænkelse ved verbal uanstændighed ol. (Ny fra 2013);Straffelov § 232;24. kapitel – seksualforbrydelser
+72375;Blufærdighedskrænkelse ved anden uanstændighed (Ny fra 2013);Straffelov § 232;24. kapitel – seksualforbrydelser
+72378;Rufferi (Ny fra 2013);Straffelov § 233, stk. 1;24. kapitel – seksualforbrydelser
+72379;Fremmelse af prostitution (Ny fra 2013);Straffelov § 233, stk. 2;24. kapitel – seksualforbrydelser
+72380;Udlejning af værelse til prostitution (Ny fra 2013);Straffelov § 233, stk. 3;24. kapitel – seksualforbrydelser
+72382;Svigagtig eller anden utilbørlig fremmelse af prostitution (Ny fra 2013);Straffelov § 233 a;24. kapitel – seksualforbrydelser
+72385;Pornografi, salg til personer under 16 år (Ny fra 2013);Straffelov § 234;24. kapitel – seksualforbrydelser
+72386;Børnepornografi (Ny fra 2013);Straffelov § 235, stk. 1;24. kapitel – seksualforbrydelser
+72387;Børnepornografi, besiddelse af/bekendt med (Ny fra 2013);Straffelov § 235, stk. 2;24. kapitel – seksualforbrydelser
+72391;Meddelt forbud efter straffelovens §236 (Ny fra 2013);Straffelov § 236;24. kapitel – seksualforbrydelser
+72392;Overtrædelse af forbud efter straffelovens §236 (Ny fra 2013);Straffelov § 236;24. kapitel – seksualforbrydelser
+73111;Manddrab;Straffelov § 237;25. kapitel – forbrydelser mod liv og legeme
+73112;Forsøg på manddrab;Straffelov § 237 jfr. 21;25. kapitel – forbrydelser mod liv og legeme
+73121;Barnedrab;Straffelov § 238, stk. 1;25. kapitel – forbrydelser mod liv og legeme
+73131;Drab efter begæring;Straffelov § 239;25. kapitel – forbrydelser mod liv og legeme
+73141;Medvirken til selvmord;Straffelov § 240;25. kapitel – forbrydelser mod liv og legeme
+73151;Uagtsomt manddrab;Straffelov § 241;25. kapitel – forbrydelser mod liv og legeme
+73152;Uagtsomt manddrab i forbindelse med færdselsuheld;Straffelov § 241;25. kapitel – forbrydelser mod liv og legeme
+73211;Legemskrænkelse;Straffelov § 244, stk. 1;25. kapitel – forbrydelser mod liv og legeme
+73212;Vold af særlig farlig karakter;Straffelov § 244, stk. 2;25. kapitel – forbrydelser mod liv og legeme
+73213;Vold med skade på legeme eller helbred;Straffelov § 244, stk. 3;25. kapitel – forbrydelser mod liv og legeme
+73214;Vold mod sagesløs;Straffelov § 244, stk. 4;25. kapitel – forbrydelser mod liv og legeme
+73221;Legemsbeskadigelse;Straffelov § 245, stk. 1;25. kapitel – forbrydelser mod liv og legeme
+73222;Legemsbeskadigelse med død til følge mv.;Straffelov § 245, stk. 2;25. kapitel – forbrydelser mod liv og legeme
+73223;Legemsbeskadigelse med grov skade til følge;Straffelov § 245, stk. 2;25. kapitel – forbrydelser mod liv og legeme
+73231;Grov legemsbeskadigelse;Straffelov § 246;25. kapitel – forbrydelser mod liv og legeme
+73235;Psykisk vold;Straffelov § 243;25. kapitel – forbrydelser mod liv og legeme
+73241;Simpel vold;Straffelov § 244;25. kapitel – forbrydelser mod liv og legeme
+73251;Alvorligere vold;Straffelov § 245, stk. 1;25. kapitel – forbrydelser mod liv og legeme
+73252;Vold med skade på legeme eller helbred;Straffelov § 245, stk. 2;25. kapitel – forbrydelser mod liv og legeme
+73253;Vold ved kvindelig omskæring (Ny fra 2004);Straffelov § 245a;25. kapitel – forbrydelser mod liv og legeme
+73261;Særlig alvorlig vold;Straffelov § 246;25. kapitel – forbrydelser mod liv og legeme
+73262;Særlig alvorlig vold med døden til følge;Straffelov § 246;25. kapitel – forbrydelser mod liv og legeme
+73311;Uagtsom legemsbeskadigelse;Straffelov § 249, stk. 1;25. kapitel – forbrydelser mod liv og legeme
+73312;Uagtsom legemsbeskadigelse i forbindelse med færdselsuheld;Straffelov § 249, stk. 1;25. kapitel – forbrydelser mod liv og legeme
+73313;Uagtsom grov legemsbeskadigelse;Straffelov § 249, stk. 2;25. kapitel – forbrydelser mod liv og legeme
+73314;Uagtsom grov legemsbeskadigelse i forbindelse med færdselsuheld;Straffelov § 249, stk. 2;25. kapitel – forbrydelser mod liv og legeme
+73315;Uagtsom betydelig legemsbeskadigelse;Straffelov § 249;25. kapitel – forbrydelser mod liv og legeme
+73316;Uagtsom betydelig legemsbeskadigelse i forbindelse med færdselsuheld;Straffelov § 249;25. kapitel – forbrydelser mod liv og legeme
+73321;Hensættelse i hjælpeløs tilstand;Straffelov § 250;25. kapitel – forbrydelser mod liv og legeme
+73331;Uforsvarlig omgang ved barnefødsel;Straffelov § 251;25. kapitel – forbrydelser mod liv og legeme
+73341;Forvolde fare for liv eller førlighed;Straffelov § 252;25. kapitel – forbrydelser mod liv og legeme
+73351;Undladt at hjælpe en person i livsfare;Straffelov § 253, stk. 1,  nr. 1;25. kapitel – forbrydelser mod liv og legeme
+73352;Undladt at hjælpe en person ved ulykke;Straffelov § 253, stk. 1, nr. 2;25. kapitel – forbrydelser mod liv og legeme
+73353;Undladt at hjælpe/flugt fra færdselsuheld (Ny fra 2008);Straffelov § 253, stk. 2;25. kapitel – forbrydelser mod liv og legeme
+73361;Overladelse af våben eller sprængstof;Straffelov § 254;25. kapitel – forbrydelser mod liv og legeme
+73371;Undladt at hjælpe gravid kvinde (Udgået 2002);Straffelov § 255;25. kapitel – forbrydelser mod liv og legeme
+74111;Ulovlig tvang;Straffelov § 260;26. kapitel – forbrydelser mod den personlige frihed
+74121;Frihedsberøvelse;Straffelov § 261, stk. 1;26. kapitel – forbrydelser mod den personlige frihed
+74122;Kvalificeret frihedsberøvelse;Straffelov § 261, stk. 2;26. kapitel – forbrydelser mod den personlige frihed
+74123;Frihedsberøvelse, grov uagtsomhed;Straffelov § 261, stk 3;26. kapitel – forbrydelser mod den personlige frihed
+74131;Uagtsom frihedsberøvelse;Straffelov § 262, stk. 1;26. kapitel – forbrydelser mod den personlige frihed
+74135;Menneskehandel (Ny i Offerstatistikken fra 2014);Straffelov § 262a;26. kapitel – forbrydelser mod den personlige frihed
+74201;Datasystem, uberettiget adgang til (Ny fra 2019);Straffelov § 263, stk. 1;27. kapitel – freds- og ærekrænkelser
+74202;Brevhemmeligheden, brud på (Ny fra 2019);Straffelov § 263, stk. 2,nr.1;27. kapitel – freds- og ærekrænkelser
+74203;Ulovlig aflytning (Ny fra 2019);Straffelov § 263, stk.2,nr.2;27. kapitel – freds- og ærekrænkelser
+74204;Ulovlig adgang til erhvervshemmeligheder (Ny fra 2019);Straffelov § 263, stk. 3;27. kapitel – freds- og ærekrænkelser
+74205;Adgangsmiddel datasystem, uberettiget salg/udbredelse (Ny fra 2019);Straffelov § 263a, stk.1,nr.1;27. kapitel – freds- og ærekrænkelser
+74206;Adgangsmiddel datasystem, uberettiget videregivelse større antal (Ny fra 2019);Straffelov § 263a, stk.1,nr.2;27. kapitel – freds- og ærekrænkelser
+74207;Adgangsmiddel datasystem, uberettiget anskaffelse/videregivelse, samfundsvigtigt (Ny fra 2019);Straffelov § 263a, stk.1,nr.3a;27. kapitel – freds- og ærekrænkelser
+74208;Adgangsmiddel datasystem, uberettiget anskaffelse/videregivelse, personoplysninger (Ny fra 2019);Straffelov § 263a, stk.1,nr.3b;27. kapitel – freds- og ærekrænkelser
+74209;Adgangsmiddel datasystem, uberettiget anskaffelse/videregivelse, betalende brugere (Ny fra 2019);Straffelov § 263a, stk.1,nr.3c;27. kapitel – freds- og ærekrænkelser
+74211;Brud på brevhemmeligheden (Udgået 2019);Straffelov § 263 stk.1,nr.1;27. kapitel – freds- og ærekrænkelser
+74212;Uberettiget adgang til andres gemmer (Udgået 2019);Straffelov § 263 stk.1,nr.2;27. kapitel – freds- og ærekrænkelser
+74213;Ulovlig aflytning (Udgået 2019);Straffelov § 263 stk.1,nr.3;27. kapitel – freds- og ærekrænkelser
+74215;Uberettiget adgang til EDB-oplysninger (Udgået 2019);Straffelov § 263, stk. 2;27. kapitel – freds- og ærekrænkelser
+74216;Ulovlig adgang til erhvervshemmeligheder (Udgået 2019);Straffelov § 263, stk. 3;27. kapitel – freds- og ærekrænkelser
+74217;Kode til informationssystem, ulovlig anvendelse af (Udgået 2019);Straffelov § 263a;27. kapitel – freds- og ærekrænkelser
+74221;Husfredskrænkelse;Straffelov § 264, stk. 1;27. kapitel – freds- og ærekrænkelser
+74225;Industrispionage;Straffelov § 264, stk. 2;27. kapitel – freds- og ærekrænkelser
+74231;Uberettiget fotografering af personer;Straffelov § 264a;27. kapitel – freds- og ærekrænkelser
+74241;Brud på privatlivets hemmeligheder;Straffelov § 264b;27. kapitel – freds- og ærekrænkelser
+74242;Uberettiget registrering af færden (Ny fra 2019);Straffelov § 264b;27. kapitel – freds- og ærekrænkelser
+74251;Udnyttelse af oplysninger om privatliv;Straffelov § 264c;27. kapitel – freds- og ærekrænkelser
+74255;Uberettiget videregivelse af billeder;Straffelov § 264d;27. kapitel – freds- og ærekrænkelser
+74261;Overtrædelse af advarsel (Udgået 2012);Straffelov § 265;27. kapitel – freds- og ærekrænkelser
+74262;Begæring om advarsel;Straffelov;27. kapitel – freds- og ærekrænkelser
+74263;Meddelt advarsel;Straffelov;27. kapitel – freds- og ærekrænkelser
+74265;Trussel på livet;Straffelov § 266;27. kapitel – freds- og ærekrænkelser
+74266;Bombetrusler/telefonbomber;Straffelov § 266;27. kapitel – freds- og ærekrænkelser
+74271;Offentlig trussel om voldshandling;Straffelov § 266a;27. kapitel – freds- og ærekrænkelser
+74274;Racediskrimination;Straffelov § 266b;27. kapitel – freds- og ærekrænkelser
+74277;Forfølgelse ved gentagne beskyldninger  (Udgået 2019);Straffelov § 266c;27. kapitel – freds- og ærekrænkelser
+74281;Ærekrænkelser (Udgået 2019);Straffelov § 267;27. kapitel – freds- og ærekrænkelser
+74282;Ærekrænkelser (Ny fra 2019);Straffelov § 267, stk. 1;27. kapitel – freds- og ærekrænkelser
+74283;Ærekrænkelser overfor døde (Ny fra 2019);Straffelov § 267, stk. 2;27. kapitel – freds- og ærekrænkelser
+74285;Beskyldning - usand (Ny fra 2019);Straffelov § 268, stk.1,nr.1;27. kapitel – freds- og ærekrænkelser
+74286;Beskyldninger via massemedier (Ny fra 2019);Straffelov § 268, stk.1,nr.2;27. kapitel – freds- og ærekrænkelser
+74291;Bagvaskelse (Udgået 2019);Straffelov § 268;27. kapitel – freds- og ærekrænkelser
+74293;Fornærmelser (Udgået 2019);Straffelov § 270, stk. 1;27. kapitel – freds- og ærekrænkelser
+74297;Æresfornærmelse overfor døde (Udgået 2019);Straffelov § 274, stk. 1;27. kapitel – freds- og ærekrænkelser
+75111;Indbrud i bibliotek;Straffelov § 276a;28. kapitel – formueforbrydelser
+75112;Indbrud i børnehave/vuggestue/fritidshjem;Straffelov § 276a;28. kapitel – formueforbrydelser
+75113;Indbrud i skole;Straffelov § 276a;28. kapitel – formueforbrydelser
+75114;Indbrud i kirke/museum;Straffelov § 276a;28. kapitel – formueforbrydelser
+75115;Indbrud i kommune-/sygesikringskontor;Straffelov § 276a;28. kapitel – formueforbrydelser
+75116;Indbrud i posthus/postkontor;Straffelov § 276a;28. kapitel – formueforbrydelser
+75117;Indbrud i svømmehal/idrætsanlæg o.l.;Straffelov § 276a;28. kapitel – formueforbrydelser
+75118;Indbrud i institution/plejehjem;Straffelov § 276a;28. kapitel – formueforbrydelser
+75119;Indbrud i offentligt kontor/bygning i øvrigt;Straffelov § 276a;28. kapitel – formueforbrydelser
+75120;Indbrud i kaserne (våben/ammunition);Straffelov § 276a;28. kapitel – formueforbrydelser
+75131;Indbrud i bankiers/vekselerer o.l.;Straffelov § 276a;28. kapitel – formueforbrydelser
+75132;Indbrud i biograf/teater;Straffelov § 276a;28. kapitel – formueforbrydelser
+75133;Indbrud i campingplads/vandrerhjem;Straffelov § 276a;28. kapitel – formueforbrydelser
+75134;Indbrud i tankstation/autohandler;Straffelov § 276a;28. kapitel – formueforbrydelser
+75135;Indbrud i privat institution;Straffelov § 276a;28. kapitel – formueforbrydelser
+75136;Indbrud i beboerklubber;Straffelov § 276a;28. kapitel – formueforbrydelser
+75139;Indbrud i privat kontor i øvrigt;Straffelov § 276a;28. kapitel – formueforbrydelser
+75140;Indbrud i selskabslokaler;Straffelov § 276a;28. kapitel – formueforbrydelser
+75141;Indbrud i pengeinstitut;Straffelov § 276a;28. kapitel – formueforbrydelser
+75150;Indbrud i sportsforretning;Straffelov § 276a;28. kapitel – formueforbrydelser
+75151;Indbrud i beklædnings-/skind-/fodtøjsforretning;Straffelov § 276a;28. kapitel – formueforbrydelser
+75152;Indbrud i kiosk/cigar-/vinhandel;Straffelov § 276a;28. kapitel – formueforbrydelser
+75153;Indbrud i købmand/supermarked/mejeri;Straffelov § 276a;28. kapitel – formueforbrydelser
+75154;Indbrud i radio-/fotoforretning;Straffelov § 276a;28. kapitel – formueforbrydelser
+75155;Indbrud i urmager/guldsmed;Straffelov § 276a;28. kapitel – formueforbrydelser
+75156;Indbrud i cafeteria/restaurant;Straffelov § 276a;28. kapitel – formueforbrydelser
+75157;Indbrud i hotel/motel;Straffelov § 276a;28. kapitel – formueforbrydelser
+75158;Indbrud i EDB-forretning;Straffelov § 276a;28. kapitel – formueforbrydelser
+75159;Indbrud i optikerforretning;Straffelov § 276a;28. kapitel – formueforbrydelser
+75169;Indbrud i forretning i øvrigt;Straffelov § 276a;28. kapitel – formueforbrydelser
+75170;Indbrud i våbenlager/-fabrik/-forretning;Straffelov § 276a;28. kapitel – formueforbrydelser
+75171;Indbrud i fabrik;Straffelov § 276a;28. kapitel – formueforbrydelser
+75172;Indbrud i lager o.l.;Straffelov § 276a;28. kapitel – formueforbrydelser
+75173;Indbrud i værksted;Straffelov § 276a;28. kapitel – formueforbrydelser
+75174;Indbrud i tømmerhandel/byggemarked;Straffelov § 276a;28. kapitel – formueforbrydelser
+75175;Indbrud i EDB-virksomhed;Straffelov § 276a;28. kapitel – formueforbrydelser
+75179;Indbrud i virksomhed i øvrigt;Straffelov § 276a;28. kapitel – formueforbrydelser
+75181;Indbrud i apotek;Straffelov § 276a;28. kapitel – formueforbrydelser
+75182;Indbrud i hospital;Straffelov § 276a;28. kapitel – formueforbrydelser
+75183;Indbrud i lægekonsultation o.l.;Straffelov § 276a;28. kapitel – formueforbrydelser
+75184;Indbrud i øvrigt;Straffelov § 276a;28. kapitel – formueforbrydelser
+75191;Pengeskabstyveri ved skærebrænder (Udgået 2019);Straffelov § 276;28. kapitel – formueforbrydelser
+75192;Pengeskabstyveri ved sprængstof (Udgået 2019);Straffelov § 276;28. kapitel – formueforbrydelser
+75193;Pengeskabstyveri ved vinkelslibere (Udgået 2019);Straffelov § 276;28. kapitel – formueforbrydelser
+75194;Pengeskabstyveri;Straffelov § 276;28. kapitel – formueforbrydelser
+75211;Indbrud i villa o.l.;Straffelov § 276a;28. kapitel – formueforbrydelser
+75212;Indbrud i lejlighed;Straffelov § 276a;28. kapitel – formueforbrydelser
+75213;Indbrud i værelse;Straffelov § 276a;28. kapitel – formueforbrydelser
+75214;Indbrud i skib/båd (fast bemandede);Straffelov § 276a;28. kapitel – formueforbrydelser
+75215;Indbrud i nybygning/prøvehus;Straffelov § 276a;28. kapitel – formueforbrydelser
+75216;Indbrud i skib/båd (lystbåde);Straffelov § 276a;28. kapitel – formueforbrydelser
+75217;Indbrud i landejendom;Straffelov § 276a;28. kapitel – formueforbrydelser
+75311;Indbrud i fritidshus;Straffelov § 276a;28. kapitel – formueforbrydelser
+75312;Indbrud i garage/udhus;Straffelov § 276a;28. kapitel – formueforbrydelser
+75313;Indbrud i kælder-/lofts-/pulterrum;Straffelov § 276a;28. kapitel – formueforbrydelser
+75314;Indbrud i campingvogn;Straffelov § 276a;28. kapitel – formueforbrydelser
+75315;Indbrud i kolonihavehus;Straffelov § 276a;28. kapitel – formueforbrydelser
+75331;Indbrud i arbejdsskur/kontorvogn o.l.;Straffelov § 276a;28. kapitel – formueforbrydelser
+75332;Indbrud i isbod/pølsebod;Straffelov § 276a;28. kapitel – formueforbrydelser
+75411;Tyveri af registreret køretøj;Straffelov § 276;28. kapitel – formueforbrydelser
+75421;Tyveri af knallert;Straffelov § 276;28. kapitel – formueforbrydelser
+75431;Tyveri af cykel;Straffelov § 276;28. kapitel – formueforbrydelser
+75432;Tyveri af barnevogn/klapvogn;Straffelov § 276;28. kapitel – formueforbrydelser
+75441;Tyveri af uregistreret køretøj;Straffelov § 276;28. kapitel – formueforbrydelser
+75442;Tyveri af skib/båd/fly;Straffelov § 276;28. kapitel – formueforbrydelser
+75511;Tyveri fra personbil;Straffelov § 276;28. kapitel – formueforbrydelser
+75512;Tyveri fra lastbil/varebil;Straffelov § 276;28. kapitel – formueforbrydelser
+75513;Tyveri fra motorcykel/scooter;Straffelov § 276;28. kapitel – formueforbrydelser
+75514;Tyveri fra knallert;Straffelov § 276;28. kapitel – formueforbrydelser
+75515;Tyveri fra cykel;Straffelov § 276;28. kapitel – formueforbrydelser
+75516;Tyveri fra både;Straffelov § 276;28. kapitel – formueforbrydelser
+75519;Tyveri fra andet køretøj;Straffelov § 276;28. kapitel – formueforbrydelser
+75531;Tyveri fra automat i møntvaskeri etc.;Straffelov § 276;28. kapitel – formueforbrydelser
+75532;Tyveri fra benzinautomat;Straffelov § 276;28. kapitel – formueforbrydelser
+75533;Tyveri fra frimærkeautomat;Straffelov § 276;28. kapitel – formueforbrydelser
+75534;Tyveri fra vareautomat;Straffelov § 276;28. kapitel – formueforbrydelser
+75535;Tyveri fra telefonautomat;Straffelov § 276;28. kapitel – formueforbrydelser
+75536;Tyveri fra parkometerautomat;Straffelov § 276;28. kapitel – formueforbrydelser
+75537;Tyveri fra spilleautomat;Straffelov § 276;28. kapitel – formueforbrydelser
+75551;Tyveri fra cafeteria/restaurant;Straffelov § 276;28. kapitel – formueforbrydelser
+75552;Tyveri fra hotel/motel;Straffelov § 276;28. kapitel – formueforbrydelser
+75553;Tyveri fra kasseapparat;Straffelov § 276;28. kapitel – formueforbrydelser
+75560;Butikstyveri fra andre forretninger;Straffelov § 276;28. kapitel – formueforbrydelser
+75561;Butikstyveri beklædning/skind/fodtøj;Straffelov § 276;28. kapitel – formueforbrydelser
+75562;Butikstyveri kiosk/cigar-/vinhandel;Straffelov § 276;28. kapitel – formueforbrydelser
+75563;Butikstyveri købmand/supermarked/mejeri;Straffelov § 276;28. kapitel – formueforbrydelser
+75564;Butikstyveri radio-/fotoforretning;Straffelov § 276;28. kapitel – formueforbrydelser
+75565;Butikstyveri urmager/guldsmed;Straffelov § 276;28. kapitel – formueforbrydelser
+75566;Butikstyveri møntvaskeri;Straffelov § 276;28. kapitel – formueforbrydelser
+75567;Tyveri fra udstilling;Straffelov § 276;28. kapitel – formueforbrydelser
+75568;Tyveri fra møntvaskeri;Straffelov § 276;28. kapitel – formueforbrydelser
+75569;Tyveri fra andre butikker;Straffelov § 276;28. kapitel – formueforbrydelser
+75570;Butikstyveri, tricktyveri;Straffelov § 276;28. kapitel – formueforbrydelser
+75571;Rudeknusningstyveri radio-/fotoforretning;Straffelov § 276;28. kapitel – formueforbrydelser
+75572;Rudeknusningstyveri fra urmager/guldsmed;Straffelov § 276;28. kapitel – formueforbrydelser
+75574;Tyveri, tricktyveri på gadeplan (Ny fra 2013, med i Offerstatistikken fra 2014);Straffelov § 276;28. kapitel – formueforbrydelser
+75579;Rudeknusningstyveri i øvrigt;Straffelov § 276;28. kapitel – formueforbrydelser
+75580;Tyveri, tricktyveri i beboelse (Udgået 2018);Straffelov § 276;28. kapitel – formueforbrydelser
+75581;Tyveri fra campingplads;Straffelov § 276;28. kapitel – formueforbrydelser
+75582;Tyveri fra garderobe;Straffelov § 276;28. kapitel – formueforbrydelser
+75583;Tyveri fra skole/fritidshjem o.l.;Straffelov § 276;28. kapitel – formueforbrydelser
+75584;Tyveri fra lejlighed/værelse/etageejendom;Straffelov § 276;28. kapitel – formueforbrydelser
+75585;Tyveri fra villa/landejendom;Straffelov § 276;28. kapitel – formueforbrydelser
+75586;Tyveri fra kælder o.l.;Straffelov § 276;28. kapitel – formueforbrydelser
+75587;Tyveri fra svømmehal/idrætsanlæg/omklædningsrum;Straffelov § 276;28. kapitel – formueforbrydelser
+75588;Tyveri fra udhængsskab;Straffelov § 276;28. kapitel – formueforbrydelser
+75589;Tyveri fra hospital/plejehjem;Straffelov § 276;28. kapitel – formueforbrydelser
+75590;Tyveri fra fritidshus;Straffelov § 276;28. kapitel – formueforbrydelser
+75591;Tyveri fra institution;Straffelov § 276;28. kapitel – formueforbrydelser
+75592;Tyveri fra kontor;Straffelov § 276;28. kapitel – formueforbrydelser
+75593;Tyveri fra kaserne;Straffelov § 276;28. kapitel – formueforbrydelser
+75594;Tyveri fra byggeplads;Straffelov § 276;28. kapitel – formueforbrydelser
+75595;Tyveri fra døgnboks;Straffelov § 276;28. kapitel – formueforbrydelser
+75596;Tyveri fra kaserne (våben/ammunition);Straffelov § 276;28. kapitel – formueforbrydelser
+75597;Tyveri fra pengeautomat;Straffelov § 276;28. kapitel – formueforbrydelser
+75598;Tyveri fra garage/udhus;Straffelov § 276;28. kapitel – formueforbrydelser
+75599;Tyveri fra andre steder;Straffelov § 276;28. kapitel – formueforbrydelser
+75601;Tyveri af afgrøde (korn o.l.);Straffelov § 276;28. kapitel – formueforbrydelser
+75602;Tyveri af benzin/olie;Straffelov § 276;28. kapitel – formueforbrydelser
+75603;Tyveri af el/gas;Straffelov § 276;28. kapitel – formueforbrydelser
+75604;Tyveri af forsendelse;Straffelov § 276;28. kapitel – formueforbrydelser
+75605;Tyveri af husdyr;Straffelov § 276;28. kapitel – formueforbrydelser
+75606;Tyveri af nummerplader;Straffelov § 276;28. kapitel – formueforbrydelser
+75607;Tyveri fra lomme/taske/bagage;Straffelov § 276;28. kapitel – formueforbrydelser
+75608;Tyveri af taske/bagage;Straffelov § 276;28. kapitel – formueforbrydelser
+75609;Tyveri i tog/skib/fly/bus;Straffelov § 276;28. kapitel – formueforbrydelser
+75611;Tyveri i lufthavne;Straffelov § 276;28. kapitel – formueforbrydelser
+75612;Tyveri i forbindelse med prostitution;Straffelov § 276;28. kapitel – formueforbrydelser
+75613;Tyveri på  banegårde;Straffelov § 276;28. kapitel – formueforbrydelser
+75614;Tyveri af narkotika;Straffelov § 276;28. kapitel – formueforbrydelser
+75615;Tyveri i plads (tyveri fra arbejdsgiver);Straffelov § 276;28. kapitel – formueforbrydelser
+75616;Tyveri i forbindelse med vold;Straffelov § 276;28. kapitel – formueforbrydelser
+75619;Tyveri i øvrigt;Straffelov § 276;28. kapitel – formueforbrydelser
+75621;Tyveri af våben;Straffelov § 276;28. kapitel – formueforbrydelser
+75622;Tyveri af fiskeredskaber/-garn o.l.;Straffelov § 276;28. kapitel – formueforbrydelser
+75623;Tyveri af metaller (skrot/afklip/afbrænding);Straffelov § 276;28. kapitel – formueforbrydelser
+75701;Ulovlig omgang med hittegods;Straffelov § 277;28. kapitel – formueforbrydelser
+76111;Underslæb/tilegnelse af ting;Straffelov § 278, stk. 1, nr. 1;28. kapitel – formueforbrydelser
+76112;Fragåelsesunderslæb;Straffelov § 278, stk. 1, nr. 2;28. kapitel – formueforbrydelser
+76113;Underslæb/forbrug af penge;Straffelov § 278, stk. 1, nr. 3;28. kapitel – formueforbrydelser
+76114;Underslæb med hensyn til våben/ammunition;Straffelov § 278;28. kapitel – formueforbrydelser
+76115;Underslæb/anvendelse af EDB-materiale;Straffelov § 278;28. kapitel – formueforbrydelser
+76141;Bedrageri;Straffelov § 279;28. kapitel – formueforbrydelser
+76142;Bedrageri checks, overtræk egen konto;Straffelov § 279;28. kapitel – formueforbrydelser
+76143;Bedrageri, stjålne checks;Straffelov § 279;28. kapitel – formueforbrydelser
+76144;Socialbedrageri;Straffelov § 279;28. kapitel – formueforbrydelser
+76145;Bedrageri dankort, overtræk egen konto;Straffelov § 279;28. kapitel – formueforbrydelser
+76146;Bedrageri øvrige kontokort, egen konto;Straffelov § 279;28. kapitel – formueforbrydelser
+76147;Bedrageri øvrige kontokort, stjålne;Straffelov § 279;28. kapitel – formueforbrydelser
+76148;Bedrageri, arbejdsløshedskasse;Straffelov § 279;28. kapitel – formueforbrydelser
+76149;Bedrageri, stjålne dankort;Straffelov § 279;28. kapitel – formueforbrydelser
+76151;Databedrageri;Straffelov § 279a;28. kapitel – formueforbrydelser
+76171;Mandatsvig;Straffelov § 280;28. kapitel – formueforbrydelser
+76172;Mandatsvig checks;Straffelov § 280;28. kapitel – formueforbrydelser
+76173;Mandatsvig dankort;Straffelov § 280;28. kapitel – formueforbrydelser
+76181;Mandatsvig, anvendelse af EDB-materiale;Straffelov § 280;28. kapitel – formueforbrydelser
+76211;Afpresning;Straffelov § 281;28. kapitel – formueforbrydelser
+76221;Åger;Straffelov § 282;28. kapitel – formueforbrydelser
+76231;Skyldnersvig;Straffelov § 283;28. kapitel – formueforbrydelser
+76241;Hæleri;Straffelov § 284;28. kapitel – formueforbrydelser
+76242;Hæleri med hensyn til våben/ammunition;Straffelov § 284;28. kapitel – formueforbrydelser
+76311;Røveri mod pengeinstitut;Straffelov § 288, stk. 1;28. kapitel – formueforbrydelser
+76312;Røveri mod offentligt kontor;Straffelov § 288, stk. 1;28. kapitel – formueforbrydelser
+76313;Røveri mod forretning;Straffelov § 288, stk. 1;28. kapitel – formueforbrydelser
+76314;Røveri mod tankstation;Straffelov § 288, stk. 1;28. kapitel – formueforbrydelser
+76315;Røveri mod værditransport;Straffelov § 288, stk. 1;28. kapitel – formueforbrydelser
+76316;Røveri, kassetterøveri;Straffelov § 288, stk. 1;28. kapitel – formueforbrydelser
+76317;Røveri mod person i egen bolig (Ny fra 2008);Straffelov § 288, stk. 1;28. kapitel – formueforbrydelser
+76319;Røveri mod andre;Straffelov § 288, stk. 1;28. kapitel – formueforbrydelser
+76321;Særligt farligt røveri mod pengeinstitut;Straffelov § 288, stk. 2;28. kapitel – formueforbrydelser
+76322;Særligt farligt røveri mod offentligt kontor;Straffelov § 288, stk. 2;28. kapitel – formueforbrydelser
+76323;Særligt farligt røveri mod forretning;Straffelov § 288, stk. 2;28. kapitel – formueforbrydelser
+76324;Særligt farligt røveri mod tankstation;Straffelov § 288, stk. 2;28. kapitel – formueforbrydelser
+76325;Særligt farligt røveri mod værditransport;Straffelov § 288, stk. 2;28. kapitel – formueforbrydelser
+76326;Særligt farligt røveri, kassetterøveri;Straffelov § 288, stk. 2;28. kapitel – formueforbrydelser
+76327;Særligt farligt røveri mod person i egen bolig (Ny fra 2008);Straffelov § 288, stk. 2;28. kapitel – formueforbrydelser
+76329;Særligt farligt røveri mod andre;Straffelov § 288, stk. 2;28. kapitel – formueforbrydelser
+76401;Grov skattesvig;Straffelov § 289, 1. pkt.;28. kapitel – formueforbrydelser
+76402;Grov momssvig;Straffelov § 289, 1. pkt.;28. kapitel – formueforbrydelser
+76403;Svig med EU-midler;Straffelov § 289a;28. kapitel – formueforbrydelser
+76404;Socialbedrageri;Straffelov § 289a;28. kapitel – formueforbrydelser
+76405;Bedrageri, arbejdsløshedskasse;Straffelov § 289a;28. kapitel – formueforbrydelser
+76501;Groft smugleri;Straffelov § 289, 2. pkt.;28. kapitel – formueforbrydelser
+76601;Hæleri;Straffelov § 290, stk. 1;28. kapitel – formueforbrydelser
+76602;Hæleri, groft/forretningsmæssig;Straffelov § 290, stk. 2;28. kapitel – formueforbrydelser
+76611;Hæleri med hensyn til narkotika;Straffelov § 290, stk. 1;28. kapitel – formueforbrydelser
+76612;Hæleri med hensyn til narkotika - groft;Straffelov § 290, stk. 2;28. kapitel – formueforbrydelser
+76621;Hæleri med hensyn til våben/ammunition;Straffelov § 290, stk. 1;28. kapitel – formueforbrydelser
+76622;Hæleri med hensyn til våben/ammunition, groft;Straffelov § 290, stk. 2;28. kapitel – formueforbrydelser
+76631;Hvidvask;Straffelov § 290 a, stk.1;28. kapitel – formueforbrydelser
+76633;Hvidvask, groft/forretningsmæssig;Straffelov § 290 a, stk.2;28. kapitel – formueforbrydelser
+77111;Hærværk;Straffelov § 291, stk. 1;28. kapitel – formueforbrydelser
+77112;Groft hærværk;Straffelov § 291, stk. 2;28. kapitel – formueforbrydelser
+77113;Groft uagtsomt hærværk;Straffelov § 291, stk. 3;28. kapitel – formueforbrydelser
+77114;Hærværk, graffiti;Straffelov § 291, stk. 1;28. kapitel – formueforbrydelser
+77115;Hærværk, groft, graffiti;Straffelov § 291, stk. 2;28. kapitel – formueforbrydelser
+77116;Hærværk, skærpende omstændigheder;Straffelov § 291, stk. 1, jf. stk. 4;28. kapitel – formueforbrydelser
+77117;Hærværk, groft (skærpende omstændighed);Straffelov § 291, stk. 2, jf. stk. 4;28. kapitel – formueforbrydelser
+77118;Hærværk, graffiti (skærpende omstændighed);Straffelov § 291, stk. 1, jf. stk. 4;28. kapitel – formueforbrydelser
+77119;Hærværk, groft, graffiti (skærpende omstændighed);Straffelov § 291, stk. 2, jf. stk. 4;28. kapitel – formueforbrydelser
+77121;Hærværk med hensyn til EDB-materiale;Straffelov § 291;28. kapitel – formueforbrydelser
+77141;Ødelæggelse af egne ting;Straffelov § 292, stk. 1;28. kapitel – formueforbrydelser
+77271;Brugstyveri af registreret personbil;Straffelov § 293, stk. 1;28. kapitel – formueforbrydelser
+77272;Brugstyveri af lastbil/varebil;Straffelov § 293, stk. 1;28. kapitel – formueforbrydelser
+77273;Brugstyveri af registreret motorcykel/scooter;Straffelov § 293, stk. 1;28. kapitel – formueforbrydelser
+77274;Brugstyveri af udlejningskøretøj;Straffelov § 293, stk. 1;28. kapitel – formueforbrydelser
+77275;Brugstyveri af uregistreret personbil;Straffelov § 293, stk. 1;28. kapitel – formueforbrydelser
+77276;Brugstyveri af uregistreret lastbil/varebil;Straffelov § 293, stk. 1;28. kapitel – formueforbrydelser
+77277;Brugstyveri af uregistreret motorcykel/scooter;Straffelov § 293, stk, 1;28. kapitel – formueforbrydelser
+77278;Brugstyveri af skib/båd/fly;Straffelov § 293, stk. 1;28. kapitel – formueforbrydelser
+77279;Brugstyveri af påhængskøretøj, registreret knallert m.v.;Straffelov § 293, stk. 1;28. kapitel – formueforbrydelser
+77281;Brugstyveri af registreret personbil;Straffelov § 293a;28. kapitel – formueforbrydelser
+77282;Brugstyveri af registreret lastbil/varebil;Straffelov § 293a;28. kapitel – formueforbrydelser
+77283;Brugstyveri af registreret motorcykel/scooter;Straffelov § 293a;28. kapitel – formueforbrydelser
+77284;Brugstyveri af udlejningskøretøj;Straffelov § 293a;28. kapitel – formueforbrydelser
+77285;Brugstyveri af uregistreret personbil;Straffelov § 293a;28. kapitel – formueforbrydelser
+77286;Brugstyveri af uregistreret lastbil/varebil;Straffelov § 293a;28. kapitel – formueforbrydelser
+77287;Brugstyveri af uregistreret motorcykel/scooter;Straffelov § 293a;28. kapitel – formueforbrydelser
+77289;Brugstyveri af andet motorkøretøj;Straffelov § 293a;28. kapitel – formueforbrydelser
+77311;Brugstyveri af knallert;Straffelov § 293, stk. 1;28. kapitel – formueforbrydelser
+77411;Brugstyveri af cykel;Straffelov § 293, stk. 1;28. kapitel – formueforbrydelser
+77511;Brugstyveri af andet;Straffelov § 293, stk. 1;28. kapitel – formueforbrydelser
+77512;Hindringer af andres ret;Straffelov § 293, stk. 2;28. kapitel – formueforbrydelser
+77521;Brugstyveri af EDB-materiel;Straffelov § 293, stk. 1;28. kapitel – formueforbrydelser
+77611;Ulovlig selvtægt;Straffelov § 294;28. kapitel – formueforbrydelser
+77612;Ulovlig inddæmning;Straffelov § 295;28. kapitel – formueforbrydelser
+77621;Svig, der ikke er bedrageri;Straffelov § 296, stk. 1;28. kapitel – formueforbrydelser
+77622;Svig, der ikke er bedrageri (skærpende omstændighed);Straffelov § 296, stk. 2;28. kapitel – formueforbrydelser
+77624;Uagtsomt svig (ikke bedrageri);Straffelov § 296, stk. 2;28. kapitel – formueforbrydelser
+77625;Uagtsomt svig (ikke bedrageri);Straffelov § 296, stk. 3;28. kapitel – formueforbrydelser
+77631;Urigtige oplysninger om et firmas økonomi;Straffelov § 297;28. kapitel – formueforbrydelser
+77641;Svigagtig opnåelse af kredit;Straffelov § 298, nr. 1;28. kapitel – formueforbrydelser
+77643;Ulovligt forbrug af forudbetalt vederlag;Straffelov § 298, nr. 2;28. kapitel – formueforbrydelser
+77645;Bortfjernelse uden at betale;Straffelov § 298, nr. 3;28. kapitel – formueforbrydelser
+77647;Tilsnigelse af adgang uden at betale;Straffelov § 298, nr. 4;28. kapitel – formueforbrydelser
+77651;Returkommission;Straffelov § 299;28. kapitel – formueforbrydelser
+77655;Forretningshemmeligheder, overtrædelse, skærpende omstændigheder (Ny fra 2019);Straffelov § 299 a;28. kapitel – formueforbrydelser
+77656;Markedsføringsloven, skærpende omstændigheder (Udgået 2019);Straffelov § 299 a;28. kapitel – formueforbrydelser
+77657;Ophavskrænkelse, skærpende omstændigheder;Straffelov § 299 b;28. kapitel – formueforbrydelser
+77658;Piratkopiering, særligt skærpende omstændigheder;Straffelov § 299b;28. kapitel – formueforbrydelser
+77659;Kartelaftale, særligt skærpende omstændigheder;Straffelov;28. kapitel – formueforbrydelser
+77660;Insiderhandel/kursmanipulation, skærpende omstændigheder;Straffelov § 299 d;28. kapitel – formueforbrydelser
+77661;Ulovlig forværrelse af formuestilling;Straffelov § 300;28. kapitel – formueforbrydelser
+77671;Udnyttelse af andres vildfarelse;Straffelov § 300a;28. kapitel – formueforbrydelser
+77675;Udnyttelse af andres økonomiske vanskeligheder;Straffelov § 300b;28. kapitel – formueforbrydelser
+77681;Efterfølgende åger;Straffelov § 300c;28. kapitel – formueforbrydelser
+77685;Betalingsmiddel/-kort, uberettiget anvendelse, videregivelse;Straffelov § 301;28. kapitel – formueforbrydelser
+77686;Kode til informationssystem, uberettiget anskaffelse/videregivelse (Udgået 2019);Straffelov § 301 a;28. kapitel – formueforbrydelser
+77691;Uorden i forretningsbøger;Straffelov § 302;28. kapitel – formueforbrydelser
+77694;Uagtsomt hæleri;Straffelov § 303;28. kapitel – formueforbrydelser
+77697;Ulovlig stemmeafgivning vedrørende økonomi;Straffelov § 304;28. kapitel – formueforbrydelser
+77698;Bestikkelse af voldgiftsdommer;Straffelov § 304 a;28. kapitel – formueforbrydelser
+80100;Færdselsuheld (FUH);Færdselslov;Færdsel
+80111;FUH. Ringe materiel skade med personskade;Færdselslov;Færdsel
+80112;FUH. Ringe materiel skade uden personskade;Færdselslov;Færdsel
+80113;FUH. Betydelig materiel skade med personskade;Færdselslov;Færdsel
+80114;FUH. Betydelig materiel skade uden personskade;Færdselslov;Færdsel
+80115;FUH. Ingen materiel skade med personskade;Færdselslov;Færdsel
+80116;FUH. Spirituskørsel med personskade;Færdselslov § 53, stk. 1;Færdsel
+80117;FUH. Spirituskørsel uden personskade;Færdselslov § 53, stk. 1;Færdsel
+80119;FUH. Motordrevet køretøj, euforiserende stoffer med personskade;Færdselslov § 54, stk. 1;Færdsel
+80120;FUH. Spiritus- og promillekørsel med personskade;Færdselslov;Færdsel
+80121;FUH. Motorfører med høj promille med personskade;Færdselslov § 53, stk. 1;Færdsel
+80122;FUH. Spirituskørsel, ej betryggende med personskade;Færdselslov § 53, stk. 2;Færdsel
+80123;FUH. Motorfører, promillekørsel med personskade;Færdselslov § 53, stk. 3;Færdsel
+80124;FUH. Motorfører medicin mv. med personskade;Færdselslov § 54, stk. 1;Færdsel
+80125;FUH. Knallertkører spirituspåvirket med personskade;Færdselslov § 53, stk. 2;Færdsel
+80126;FUH. Knallertkører medicin mv. med personskade;Færdselslov § 54, stk. 1;Færdsel
+80127;FUH. Cyklist mv., spirituspåvirket med personskade;Færdselslov § 54, stk. 2;Færdsel
+80128;FUH. Cyklist mv., medicin mv. med personskade;Færdselslov § 54, stk. 2;Færdsel
+80129;FUH. Motorfører medicin mv. med personskade;Færdselslov § 54, stk. 2;Færdsel
+80130;FUH. Spiritus- og promillekørsel uden personskade;Færdselslov;Færdsel
+80131;FUH. Motorfører med høj promille uden personskade;Færdselslov § 53, stk. 1;Færdsel
+80132;FUH. Spirituskørsel, ej betryggende uden personskade;Færdselslov § 53, stk. 2;Færdsel
+80133;FUH. Motorfører, promillekørsel uden personskade;Færdselslov § 53, stk. 3;Færdsel
+80134;FUH. Motorfører, medicin mv. uden personskade;Færdselslov § 54, stk. 1;Færdsel
+80135;FUH. Knallertkører, spirituspåvirket uden personskade;Færdselslov § 53, stk. 2;Færdsel
+80136;FUH. Knallertkører, medicin mv. uden personskade;Færdselslov § 54, stk. 1;Færdsel
+80137;FUH. Cyklist mv., spirituspåvirket uden personskade;Færdselslov § 54, stk. 2;Færdsel
+80138;FUH. Cyklist, medicin mv. uden personskade;Færdselslov § 54, stk. 2;Færdsel
+80139;FUH. Knallertkører medicin mv. med personskade;Færdselslov § 54, stk. 2;Færdsel
+80140;FUH. Cyklist mv., spirituspåvirket med personskade;Færdselslov § 54, stk. 3;Færdsel
+80141;FUH. Knallertkører med høj promille med personskade;Færdselslov § 53, stk. 1;Færdsel
+80142;FUH. Cyklist mv. medicin mv. med personskade;Færdselslov § 54, stk. 3;Færdsel
+80143;FUH. Knallertkører, promillekørsel med personskade;Færdselslov § 53, stk. 3;Færdsel
+80144;FUH. Motorfører, medicin mv. uden personskade;Færdselslov § 54, stk.2;Færdsel
+80145;FUH. Knallertkører, medicin mv. uden personskade;Færdselslov § 54, stk. 2;Færdsel
+80146;FUH. Cyklist mv., spirituspåvirket uden personskade;Færdselslov § 54, stk. 3;Færdsel
+80147;FUH. Cyklist, medicin mv. uden personskade;Færdselslov § 54, stk. 3;Færdsel
+80148;FUH. Motordrevet køretøj, euforiserende stoffer uden personskade;Færdselslov § 54, stk. 1;Færdsel
+80151;FUH. Motorfører med promille under 0,81 med personskade;Færdselslov § 53, stk. 3;Færdsel
+80152;FUH. Knallertkører med promille under 0,81 med personskade;Færdselslov § 53, stk. 3;Færdsel
+80171;FUH. Knallertkører med høj promille uden personskade;Færdselslov § 53, stk. 1;Færdsel
+80173;FUH. Knallertkører, promillekørsel uden personskade;Færdselslov § 53, stk. 3;Færdsel
+80181;FUH. Motorfører med promille under 0,81 uden personskade;Færdselslov § 53, stk. 3;Færdsel
+80182;FUH. Knallertkører med promille under 0,81 uden personskade;Færdselslov § 53, stk. 3;Færdsel
+80200;Spiritus- og promillekørsel;Færdselslov;Færdsel
+80201;Spirituskørsel;Færdselslov § 53, stk. 1;Færdsel
+80210;Spiritus, motorfører med høj promille;Færdselslov § 53, stk. 1;Færdsel
+80220;Spirituskørsel, ej betryggende;Færdselslov § 53, stk. 2;Færdsel
+80230;Spiritus, motorfører, promillekørsel;Færdselslov § 53, stk. 3;Færdsel
+80233;Spiritus, motorfører med promille under 0,81;Færdselslov § 53, stk. 3;Færdsel
+80239;Fører af motordrevet køretøj, euforiserende stoffer;Færdselslov § 54, stk.1;Færdsel
+80240;Motorfører, medicin mv.;Færdselslov § 54, stk. 1;Færdsel
+80241;Motorfører, medicin mv.;Færdselslov § 54, stk. 2;Færdsel
+80242;Motordrevet køretøj, euforiserende stoffer uden recept;Færdselslov § 54, stk. 1, nr. 1 og 2;Færdsel
+80243;Motordrevet køretøj, euforiserende stoffer med recept;Færdselslov § 54, stk. 1, nr. 3 og 4;Færdsel
+80244;Fører af motordrevet køretøj, euforiserende stoffer uden recept;Færdselslov § 54, stk. 1, 1. pkt.;Færdsel
+80245;Fører af motordrevet køretøj, euforiserende stoffer med recept;Færdselslov § 54, stk. 1, 2. pkt.;Færdsel
+80246;THC (klip), uden recept, motordrevet køretøj, bortset fra lille knallert;Færdselslov § 54, stk. 1, nr. 2;Færdsel
+80247;THC (klip), med recept, motordrevet køretøj, bortset fra lille knallert;Færdselslov § 54, stk. 1, nr. 4;Færdsel
+80249;Spiritus, knallertkører med høj promille;Færdselslov § 53, stk. 1;Færdsel
+80250;Spiritus, knallertkører, spirituspåvirket;Færdselslov § 53, stk. 2;Færdsel
+80251;Spiritus, knallertkører, promillekørsel;Færdselslov § 53, stk. 3;Færdsel
+80253;Spiritus, knallertkører med promille under 0,81;Færdselslov § 53, stk. 3;Færdsel
+80260;Knallertkører, medicin mv.;Færdselslov § 54, stk. 1;Færdsel
+80261;Knallertkører, medicin mv.;Færdselslov § 54, stk. 2;Færdsel
+80270;Cyklist mv., spirituspåvirket;Færdselslov § 54, stk. 2;Færdsel
+80271;Cyklist mv., spirituspåvirket;Færdselslov § 54, stk. 3;Færdsel
+80280;Cyklist mv., medicin mv.;Færdselslov § 54, stk. 2;Færdsel
+80281;Cyklist mv., medicin mv.;Færdselslov § 54, stk. 3;Færdsel
+81010;Manglende agtpågivenhed;Færdselslov § 3;Færdsel
+81020;Anvisninger, ikke efterkommet;Færdselslov § 4-5;Færdsel
+81021;Lyssignal, kørsel frem mod rødt/gult lys;Færdselslov § 4, stk. 1;Færdsel
+81022;Hastighedsovertrædelse, færdselstavle;Færdselslov § 4, stk. 1;Færdsel
+81023;ATK hastighedsovertrædelse, færdselstavle;Færdselslov § 4, stk. 1;Færdsel
+81024;ATK hastighedsovertrædelse, færdselstavle;Færdselslov § 4, stk. 1;Færdsel
+81025;ATK hastighedsovertrædelse, færdselstavle;Færdselslov § 4, stk. 1;Færdsel
+81026;ATK hastighedsovertrædelse, færdselstavle (klip);Færdselslov § 4;Færdsel
+81027;ATK - Hastighedsovertrædelse, færdselstavle;Færdselslov § 4, stk. 1;Færdsel
+81028;ATK - Hastighedsovertrædelse, færdselstavle;Færdselslov § 4, stk. 1;Færdsel
+81029;ATK - Hastighedsovertrædelse, færdselstavle;Færdselslov § 4, stk. 1;Færdsel
+81030;ATK lyssignal, kørsel mod rødt lys (klip);Færdselslov § 4, stk. 1;Færdsel
+81032;Rødt lys, fremkørsel mod (klip);Færdselslov § 4, stk. 1-2;Færdsel
+81033;Kørselsretningen, kørsel mod (klip);Færdselslov § 4, stk. 1-2;Færdsel
+81034;Spærrelinjer, overskridelse i forbindelse med overhaling (klip);Færdselslov § 4, stk. 1-2;Færdsel
+81035;Nødspor, kørsel i (klip);Færdselslov § 4, stk. 1-2;Færdsel
+81036;Overhaling, færdselstavle/afmærkning (klip);Færdselslov § 4, stk. 1;Færdsel
+81037;Vigepligt, færdselstavle/afmærkning (klip);Færdselslov § 4, stk. 1;Færdsel
+81038;Hastighed, færdselstavle (klip);Færdselslov § 4, stk. 1;Færdsel
+81039;Jernbaneoverkørsel, passage af (klip);Færdselslov § 5, stk. 2;Færdsel
+81040;Udrykningskørsel;Færdselslov § 7;Færdsel
+81050;FUH. ikke opfyldt sine forpligtelser;Færdselslov § 9;Færdsel
+81051;Forpligtelser ved færdselsuheld, undlader at standse;Færdselslov § 9, stk. 1;Færdsel
+81052;Forpligtelser ved færdselsuheld § 9, stk. 2, nr. 1 (undlader at yde hjælp);Færdselslov § 9, stk. 2, nr. 1;Færdsel
+81053;Forpligtelser ved færdselsuheld § 9, stk. 2, nr. 2-6;Færdselslov § 9, stk. 2, nr. 2-6;Færdsel
+81060;Placering på vejen;Færdselslov § 14-15;Færdsel
+81061;Forankørende, for lidt afstand til (klip);Færdselslov § 15, stk. 3 pkt. 1;Færdsel
+81062;Helleanlæg mv., venstre om (klip);Færdselslov § 15, stk. 4;Færdsel
+81080;Svingning mv.;Færdselslov § 16-17;Færdsel
+81085;Svingning mv., til fare/unødig ulempe (klip);Færdselslov § 16, stk. 2;Færdsel
+81090;Vending, bakning, vognbaneskift mv.;Færdselslov § 18;Færdsel
+81091;Vending eller bakning, til fare/ulempe (klip);Færdselslov § 18, stk. 1;Færdsel
+81092;Vognbaneskift, igangsætning, placering, standsning til fare/ulempe (klip);Færdselslov § 18, stk. 2;Færdsel
+81110;Busstoppested mv., kørsel ved;Færdselslov § 19;Færdsel
+81120;Andre køretøjer, kørsel ved møde af;Færdselslov § 20;Færdsel
+81130;Overhaling, kørsel ved;Færdselslov § 21-22, 24;Færdsel
+81131;Overhaling, ved kørsel (klip);Færdselslov § 21, stk. 1-4;Færdsel
+81135;Overhaling, øget hastighed (klip);Færdselslov § 22, stk. 1;Færdsel
+81140;Vognbaneskift, forbud mod (klip);Færdselslov § 24, stk. 1;Færdsel
+81150;Overhaling, forbud mod;Færdselslov § 23, 25;Færdsel
+81152;Overhaling, forbud mod (klip);Færdselslov § 23;Færdsel
+81155;Overhaling, ved fodgængerfelt (klip);Færdselslov § 25;Færdsel
+81170;Vigepligtsforseelse;Færdselslov § 26;Færdsel
+81171;Vigepligt, ubetinget, afmærkning (klip);Færdselslov § 26 stk. 2;Færdsel
+81172;Vigepligt, ubetinget, udkørsel (klip);Færdselslov § 26 stk. 3;Færdsel
+81173;Vigepligt, højre (klip);Færdselslov § 26 stk. 4;Færdsel
+81174;Svingning, ej sket uden ulempe (klip);Færdselslov § 26 stk. 6;Færdsel
+81190;Gående, forpligtelser overfor;Færdselslov § 27;Færdsel
+81210;Standsning og parkering;Færdselslov § 28-29,31;Færdsel
+81220;Signal- og tegngivning;Færdselslov § 32;Færdsel
+81230;Lygteføring, manglende afmærkning;Færdselslov § 33-35;Færdsel
+81250;Cykel- og motorløb;Færdselslov § 37;Færdsel
+81252;Kap- og væddekørsel (klip);Færdselslov § 37, stk. 4;Færdsel
+81260;Generende/forstyrrende kørsel;Færdselslov § 38;Færdsel
+81265;Hastighedsovertrædelse § 41;Færdselslov § 41;Færdsel
+81270;Hastighedsovertrædelse § 42-43a;Færdselslov § 42-43a;Færdsel
+81271;ATK hastighedsovertrædelse;Færdselslov § 42-43a;Færdsel
+81272;ATK hastighedsovertrædelse;Færdselslov § 42-43a;Færdsel
+81273;ATK hastighedsovertrædelse;Færdselslov § 42-43a;Færdsel
+81274;ATK hastighedsovertrædelse (klip);Færdselslov § 42-43a;Færdsel
+81275;ATK - Hastighedsovertrædelse;Færdselslov § 42-43a;Færdsel
+81276;ATK - Hastighedsovertrædelse;Færdselslov § 42-43a;Færdsel
+81277;ATK - Hastighedsovertrædelse;Færdselslov § 42-43a;Færdsel
+81278;Hastighed, generelle (klip);Færdselslov § 42;Færdsel
+81279;Hastighed, køretøjsbestemt (klip);Færdselslov § 43-43a;Færdsel
+81290;Motorvej mv., kørsel på;Færdselslov § 44-48;Færdsel
+81330;Cyklister, særlige regler for;Færdselslov § 49-50;Færdsel
+81338;Knallert 3-hjulet, passager under 5 år uden sikkerhedssele (klip);Færdselslov § 51, stk. 7;Færdsel
+81340;Knallertkørsel, særlige regler for;Færdselslov § 51, 63;Færdsel
+81341;Lille knallert, kørsel uden at have erhvervet kørekort;Færdselslov § 63, stk. 1, 1. pkt;Færdsel
+81342;Kørekort til lille knallert, ikke medbragt eller forevist;Færdselslov § 63, stk. 1, 2. pkt;Færdsel
+81343;Knallertbevis/traktorKK ikke medbragt eller forevist til kørsel med lille knallert;Færdselslov § 63, stk. 1;Færdsel
+81370;Motorcykelkørsel, særlige regler for;Færdselslov § 52;Færdsel
+81372;Motorcykel 2-hjulet, passager under 135 cm (klip);Færdselslov § 52, stk. 5, 1. pkt.;Færdsel
+81373;Motorcykel 3-hjulet/sidevogn, passager under 5 år uden sikkerhedssele (klip);Færdselslov § 52, stk. 5, 2. pkt.;Færdsel
+81390;Spirituskørsel, manglende hindring af;Færdselslov § 54, stk. 3-4;Færdsel
+81391;Spirituskørsel, manglende hindring af;Færdselslov § 54, stk.4-5;Færdsel
+81393;Håndholdt teleudstyr mv., brug af (Ny fra 2019);Færdselslov § 55 a;Færdsel
+81394;Håndholdt teleudstyr mv., brug af (klip) (Ny fra 2019);Færdselslov § 55 a;Færdsel
+81395;Mobiltelefon mv., brug af (Udgået 2019);Færdselslov § 55a;Færdsel
+81396;ATK - Håndholdt teleudstyr mv., brug af (klip) (Ny fra 2019);Færdselslov § 55 a;Færdsel
+81397;ATK Mobiltelefon, brug af håndholdt (Udgået 2019);Færdselslov § 55a, stk. 1;Færdsel
+81402;Køreuddannelse, overtrædelse af regler om  (kørekortbekendtgørelsen);Færdselslov § 56, stk. 5;Færdsel
+81405;Stor knallert, kørsel uden førerret;Færdselslov § 56, stk. 1;Færdsel
+81407;Traktor/motorredskab, kørsel uden førerret;Færdselslov § 62 stk. 1;Færdsel
+81408;Stor knallert, kørsel uden førerret;Færdselslov § 63a, stk. 1;Færdsel
+81409;Motorkørertøj, kørsel uden førerret;Færdselslov § 56, stk. 1, 1. pkt.;Færdsel
+81410;Kørekort mv. ikke medbragt (motorkøretøj/stor knallert);Færdselslov § 56, stk. 1, 2. pkt.;Færdsel
+81411;Kørekort, kørsel trods nægtelse;Færdselslov § 56, stk. 2 og 3 og 58;Færdsel
+81412;Kørsel uden førerret til den pågældende kategori;Færdselslov § 56, stk. 1, 1. pkt.;Færdsel
+81415;Erhvervsmæssig førerret, kørsel uden;Færdselslov § 56, stk. 1, 1. pkt.;Færdsel
+81416;Bus, kørsel uden førerret;Færdselslov § 56, stk. 1, 1. pkt.;Færdsel
+81417;Udenlandsk kørekort, nægtet ombytning kørekort;Færdselslov § 56, stk. 2;Færdsel
+81420;Kørekort, inddragelse pga. utilfredsstillende helbred;Færdselslov § 60, stk. 1;Færdsel
+81421;Kørekort, inddragelse pga. manglende ædruelighed;Færdselslov § 60, stk. 1;Færdsel
+81422;Kørekort, inddragelse pga. euforiserende stoffer;Færdselslov § 60, stk. 1;Færdsel
+81423;Kørekort, inddragelse pga. manglende kørefærdigheder;Færdselslov § 60, stk. 1;Færdsel
+81424;Kørekort udenlandsk, inddragelse af;Færdselslov § 60, stk. 1;Færdsel
+81425;Kørekort, inddragelse, ej mødt til kontrolprøve;Færdselslov § 60;Færdsel
+81426;Kørekort nægtet, sygdom, ædruelighed, stof;Færdselslov § 56, stk. 3;Færdsel
+81427;Kørekort, erhverv nægtet, strafbare forhold;Færdselslov § 58, stk. 1;Færdsel
+81428;Alkolåsordning;Færdselslov § 60a og 132a;Færdsel
+81429;Kørekort, inddragelse, ej kursus i køre- hviletid-takograf/lastsikring-overlæs;Færdselslov § 60 b, stk. 2;Færdsel
+81430;Øvelseskørsel;Færdselslov § 64;Færdsel
+81435;Fører, uden ledsager/ledsager ej opfyldt betingelser;Færdselslov § 57, stk. 3;Færdsel
+81436;Ledsager, regler vedrørende;Færdselslov § 57, stk. 3;Færdsel
+81437;Fører (ledsagerkrav), ej opfyldt oplysningspligt/ansavar;Færdselslov § 57, stk. 3;Færdsel
+81440;Oplysningspligt mv., ikke opfyldt;Færdselslov § 65;Færdsel
+81445;Lille knallert, ej lovlig, 40-42 km/t;Færdselslov § 67, stk. 2;Færdsel
+81446;Lille knallert, ej lovlig, 43 km/t eller derover;Færdselslov § 67, stk. 2;Færdsel
+81447;Stor knallert, ej lovlig, 60-63 km/t;Færdselslov § 67, stk. 2;Færdsel
+81448;Stor knallert, ej lovlig, 64 km/t eller derover;Færdselslov § 67, stk. 2;Færdsel
+81449;Knallert, ej lovlig, konstruktive ændringer/hastighedsforøgelse;Færdselslov § 67, stk. 2;Færdsel
+81450;Køretøj, mangler (Udstyrsbekendtgørelsen);Færdselslov § 67-68;Færdsel
+81451;Hastighedsbegrænser, ændring/manglende;Færdselslov § 68;Færdsel
+81455;Forureningsbegrænsende udstyr, manipulation af, ejeransvar for køretøjer;Færdselslov 67, stk. 2;Færdsel
+81456;Forureningsbegrænsende udstyr, manipulation af, føreransvar for køretøjer;Færdselslov 67, stk. 4;Færdsel
+81490;Tilkobling og slæbning;Færdselslov § 70;Færdsel
+81510;Manglende registrering;Færdselslov § 72;Færdsel
+81520;Overtrådt registreringsbekendtgørelsen;Færdselslov § 73;Færdsel
+81522;ATK Registreringsbekendtgørelse (manglende nummerplade);Færdselslov § 73;Færdsel
+81550;Ulovlig kørsel med udenlandsk køretøj;Færdselslov § 76;Færdsel
+81555;Syn, ikke efterkommet tilsigelse til;Færdselslov § 78;Færdsel
+81560;Sikkerhedssele, ikke brug af;Færdselslov § 80;Færdsel
+81562;ATK Sikkerhedssele, ikke brug af;Færdselslov § 80, stk. 1;Færdsel
+81563;Befordring af barn i bagudvendt barnestol ved aktiv frontairbag;Færdselslov § 80a, stk. 3, jf. stk. 6;Færdsel
+81564;Ladet sig befordre ud over antallet af siddepladser;Færdselslov § 80b, stk. 4, 1. pkt.;Færdsel
+81565;Sikkerhedsudstyr, ikke fyldt 15 år (klip);Færdselslov § 80 stk. 4, 1. pkt.;Færdsel
+81566;Befordring af barn uden særligt sikkerhedsudstyr (klip);Færdselslov § 80a, stk. 1;Færdsel
+81567;Befordring af barn i øvrigt (klip);Færdselslov § 80a, stk. 2;Færdsel
+81568;Befordring af flere børn end siddepladser (klip);Færdselslov § 80b, stk.4, 2. pkt.;Færdsel
+81569;Befordring af børn (klip);Færdselslov § 80, 80a og 80b;Færdsel
+81570;Styrthjelm, ikke brug af;Færdselslov § 81;Færdsel
+81572;Sikkerhedsudstyr, ikke fyldt 14 (klip);Færdselslov § 80, stk. 4, 1. pkt.;Færdsel
+81573;Befordring af barn under 14 på forsæde (klip);Færdselslov § 80b, stk. 4, 2 pkt.;Færdsel
+81574;Styrthjelm, 5-14 år uden sikkerhedssele (klip);Færdselslov § 81, stk.3;Færdsel
+81575;Styrthjelm, 8-14 år (klip);Færdselslov § 81 stk. 3;Færdsel
+81576;Styrthjelm, 5-13 år uden sikkerhedssele (klip);Færdselslov § 81, stk. 3;Færdsel
+81580;Køretøjers belæsning;Færdselslov § 82;Færdsel
+81581;Farligt gods, national og international transport;Færdselslov § 82, stk. 5;Færdsel
+81590;Køretøjets dimensioner;Færdselslov § 84;Færdsel
+81610;Overlæs, herunder bekendtgørelse om vægt og akseltryk;Færdselslov § 85;Færdsel
+81611;Overlæs, totalvægt;Færdselslov § 85;Færdsel
+81612;Overlæs, akseltryk;Færdselslov § 85;Færdsel
+81630;Blokvognskørsel;Færdselslov § 86;Færdsel
+81631;Køre-hviletid;Færdselslov § 86a;Færdsel
+81640;Forurening af vej mv.;Færdselslov § 87;Færdsel
+81650;Dyr på vej mv.;Færdselslov § 88;Færdsel
+81670;Forsikring, ikke tegnet;Færdselslov § 105-106;Færdsel
+81683;Kørsel med tungt køretøj i frakendelsestid (frakendelse af tunge køretøjer);Færdselslov §117 a;Færdsel
+81684;Kørsel med tungt køretøj i frakendelsestid (frakendelse af kørekort og tunge køretøjer);Færdselslov § 117 a;Færdsel
+81685;Frakendelsestid - kørsel (motorkøretøj/stor knallert);Færdselslov § 117 a;Færdsel
+81686;Frakendelsestid, kørsel i (lille knallert);Færdselslov § 117 c, stk. 1, 2. pkt;Færdsel
+81690;Frakendelsestid, kørsel i;Færdselslov § 117, stk. 6;Færdsel
+81810;Konfiskation af motorkøretøj;Færdselslov § 133 a;Færdsel
+81811;Konfiskation af stor eller lille knallert;Færdselslov § 133a;Færdsel
+81880;Handlinger i udlandet;Færdselslov § 134;Færdsel
+81990;Overtrådt andre regler i færdselsloven;Færdselslov;Færdsel
+81999;Konfiskation af knallertdele;Færdselslov;Færdsel
+82000;Uoplyst spiritus- og promillekørsel;Færdselslov;Færdsel
+83980;Brandundersøgelser;Særlov;Særlov
+84110;Lov om euforiserende stoffer;Særlov;Særlov
+84111;Lov om euforiserende stoffer (Salg);Særlov;Særlov
+84120;Retsplejeloven;Særlov;Særlov
+84121;Optage/transmittere billeder, lyd og tekst;Særlov;Særlov
+84129;Retsplejeloven, nægter at opgive navn;Særlov;Særlov
+84130;Udlændingeloven i øvrigt, strafferetlig;Særlov;Særlov
+84131;Asylsøger tilbagesendt til andet land;Særlov;Særlov
+84132;Udlænding i øvrigt tilbagesendt til andet land;Særlov;Særlov
+84133;Asylsøger ej tilbagesendt til andet land;Særlov;Særlov
+84134;Udlænding i øvrigt ej tilbagesendt til andet land;Særlov;Særlov
+84135;Udlændingeloven, ulovligt ophold/arbejde;Særlov;Særlov
+84136;Udlændingeloven, adgang til landet ved urigtige oplysninger;Særlov;Særlov
+84137;Udlændingeloven, ulovligt arbejde/arbejdsgivere;Særlov;Særlov
+84138;Asylsøger i DK tilbagetaget fra andet land;Særlov;Særlov
+84139;Udlænding i øvrigt tilbagetaget fra andet land;Særlov;Særlov
+84140;Udlændingeloven, adgang til landet ved urigtige oplysninger mv.;Særlov;Særlov
+84141;Udlændingeloven, overtrædelse af meddelt indrejseforbud;Særlov;Særlov
+84142;Udlændingeloven, ulovligt ophold;Særlov;Særlov
+84143;Udlændingeloven, menneskesmugling;Særlov;Særlov
+84144;Udlændingeloven, bistand ved ulovlig indrejse/ophold;Særlov;Særlov
+84145;Udlændingeloven, transportøransvar;Særlov;Særlov
+84146;Udlændingeloven, overtrædelse af meddelt indrejseforbud;Særlov;Særlov
+84147;Udlændingeloven, udvist af andet nordisk land;Særlov;Særlov
+84148;Udlændingeloven, meddelt indrejseforbud;Særlov;Særlov
+84149;Manglende overholdelse af pålagt meldepligt jf. udlændingeloven;Særlov;Særlov
+84150;Pasloven;Særlov;Særlov
+84151;Udlændingeloven, bistand ved ulovlig indrejse;Særlov;Særlov
+84152;Udlændingeloven, bistand ved ulovligt ophold;Særlov;Særlov
+84153;Udlændingeloven, bistand ved ulovligt arbejde;Særlov;Særlov
+84154;Manglende overholdelse af pålagt underretningspligt jf. udlændingeloven;Særlov;Særlov
+84155;Udlændingeloven, ulovligt ophold;Særlov;Særlov
+84156;Udlændingeloven, ulovligt arbejde/arbejdstager;Særlov;Særlov
+84157;Udlændingeloven, ulovligt ophold;Særlov;Særlov
+84158;Udlændingeloven, ulovligt arbejde;Særlov;Særlov
+84159;Udlændingeloven, ulovligt ophold/arbejdstagere;Særlov;Særlov
+84160;Udlændingeloven, ulovligt arbejde/arbejdstagere;Særlov;Særlov
+84161;Udlændingeloven, ulovlig indrejse;Særlov;Særlov
+84167;Udlændingeloven, bistand ved ulovligt ophold;Særlov;Særlov
+84169;Manglende overholdelse af pålagt opholdspligt jf. udlændingeloven;Særlov;Særlov
+84170;Lov om våben og eksplosivstof;Særlov;Særlov
+84171;Våbenloven, skydevåben;Særlov;Særlov
+84172;Våbenloven, kniv på offentligt sted;Særlov;Særlov
+84173;Våbenloven, anden overtrædelse med kniv;Særlov;Særlov
+84174;Våbenloven, i øvrigt;Særlov;Særlov
+84180;Knivloven, §1, kniv på offentligt tilgængeligt sted;Særlov;Særlov
+84181;Knivloven, i øvrigt;Særlov;Særlov
+84190;Sprængstof, Lov om våben og eksplosivstof;Særlov;Særlov
+84191;Sprængstof, bekendtgørelse om eksplosivstoffer;Særlov;Særlov
+84192;Sprængstof, bekendtgørelse om eksplosivstoffer, overtrædelse af vilkår;Særlov;Særlov
+84201;Fyrværkeriloven;Særlov;Særlov
+84210;Brandlovgivningen/beredskabsloven;Særlov;Særlov
+84215;Brandsikringslovgivningen;Særlov;Særlov
+84220;Ordensbekendtgørelsen, sikring af den offentlige orden m.v.;Særlov;Særlov
+84221;Ordensbekendtgørelsen, sikring af den offentlige orden (Pornoudstilling);Særlov;Særlov
+84222;Ordensbekendtgørelsen, midlertidige foranstaltninger/meddelt påbud;Særlov;Særlov
+84223;Ordensbekendtgørelsen, midlertidige foranstaltninger/overtrædelse af påbud;Særlov;Særlov
+84224;Ordensbekendtgørelsen, zoneforbud (meddelt forbud);Særlov;Særlov
+84225;Ordensbekendtgørelsen, zoneforbud (overtrædelse af forbud);Særlov;Særlov
+84226;Ordensbekendtgørelsen, skærpende omstændighed (grov forstyrrelse af ro og orden);Særlov;Særlov
+84230;Politivedtægten;Særlov;Særlov
+84231;Politivedtægten, meddelt påbud;Særlov;Særlov
+84232;Politivedtægten, overtrædelse af påbud;Særlov;Særlov
+84233;Politivedtægten, lokal;Særlov;Særlov
+84240;Vinter vedlige-/renholdelse af offentlig vej;Særlov;Særlov
+84241;Vinter vedlige-/renholdelse af privat vej;Særlov;Særlov
+84242;Vejlov, rådighed over gadeareal;Særlov;Særlov
+84250;Radiospredningsloven;Særlov;Særlov
+84255;Lov om radiokommunikation;Særlov;Særlov
+84260;Folkeregisterlov;Særlov;Særlov
+84261;Lov om personnavne;Særlov;Særlov
+84265;Persondataloven, Lov om behandling af personoplysninger;Særlov;Særlov
+84266;Databeskyttelsesloven;Særlov;Særlov
+84270;Bekendtgørelse om radio- og fjernsynsafgift;Særlov;Særlov
+84290;Ligsynsloven;Særlov;Særlov
+84310;Lov om Danmarks Statistik;Særlov;Særlov
+84315;Straffuldbyrdelsesloven;Særlov;Særlov
+84320;Postlovgivningen;Særlov;Særlov
+84330;Bibliotekslov;Særlov;Særlov
+84335;Lov om tv-overvågning;Særlov;Særlov
+84340;Lov om vagtvirksomhed;Særlov;Særlov
+84345;Inkassovirksomhed, lov om;Særlov;Særlov
+84350;Lov om krigsmateriel mv.;Særlov;Særlov
+84360;Lov om hvidvaskning af penge;Særlov;Særlov
+84370;Ophold i ejendom/forberedelse af forbud;Særlov;Særlov
+84371;Ophold i ejendom/meddelt forbud mod;Særlov;Særlov
+84372;Ophold i ejendom/overtrædelse af forbud mod;Særlov;Særlov
+84375;Karantæne ved idrætsbegivenheder, forberedelse af forbud;Særlov;Særlov
+84376;Karantæne ved idrætsbegivenheder, meddelt forbud;Særlov;Særlov
+84377;Karantæne ved idrætsbegivenheder, overtrædelse af forbud;Særlov;Særlov
+84380;Besøgende i bestemte lokaler/forberedelse af forbud;Særlov;Særlov
+84381;Besøgende i bestemte lokaler/meddelt forbud mod;Særlov;Særlov
+84382;Besøgende i bestemte lokaler/overtrædelse af forbud mod;Særlov;Særlov
+84385;Bortvisning/forbud, begæring om ;Særlov;Særlov
+84386;Bortvisning/forbud/tilhold, begæring om ;Særlov;Særlov
+84387;Bortvisning, meddelt forbud;Særlov;Særlov
+84388;Bortvisning, meddelt forbud og tilhold;Særlov;Særlov
+84389;Bortvisning, overtrædelse af meddelt forbud;Særlov;Særlov
+84390;Bortvisning, overtrædelse af meddelt forbud og tilhold;Særlov;Særlov
+84400;Idrætsbegivenheder, indretning/afvikling, forberedelse af påbud;Særlov;Særlov
+84401;Idrætsbegivenheder, indretning/afvikling, meddelt påbud;Særlov;Særlov
+84402;Idrætsbegivenheder, indretning/afvikling, overtrædelse af meddelt påbud;Særlov;Særlov
+84405;Idrætsbegivenheder, ej afholdte, forberedelse af forbud;Særlov;Særlov
+84406;Idrætsbegivenheder, ej afholdte, meddelt forbud;Særlov;Særlov
+84407;Idrætsbegivenheder, ej afholdte, overtrædelse af meddelt forbud;Særlov;Særlov
+84410;Køretøjer, syn ikke efterkommet;Særlov;Særlov
+84420;Teleloven;Særlov;Særlov
+84441;Meddelt tilhold;Særlov;Særlov
+84442;Meddelt opholdsforbud;Særlov;Særlov
+84443;Meddelt bortvisning;Særlov;Særlov
+84444;Meddelt tilhold og opholdsforbud;Særlov;Særlov
+84445;Meddelt bortvisning og tilhold;Særlov;Særlov
+84446;Meddelt bortvisning og opholdsforbud;Særlov;Særlov
+84447;Meddelt bortvisning, tilhold og opholdsforbud;Særlov;Særlov
+84451;Tilhold, overtrædelse af (Ny fra 2012);Særlov;Særlov
+84452;Opholdsforbud, overtrædelse af (Ny fra 2012);Særlov;Særlov
+84453;Bortvisning, overtrædelse af (Ny fra 2012);Særlov;Særlov
+84454;Tilhold og opholdsforbud, overtrædelse af (Ny fra 2012);Særlov;Særlov
+84455;Bortvisning og tilhold, overtrædelse af (Ny fra 2012);Særlov;Særlov
+84456;Bortvisning og opholdsforbud, overtrædelse af (Ny fra 2012);Særlov;Særlov
+84457;Bortvisning, tilhold og opholdsforbud, overtrædelse af (Ny fra 2012);Særlov;Særlov
+84471;Overtrædelse af kommunalt samlingsstedsforbud;Særlov;Særlov
+84474;Overtrædelse af forbud mod ophold på samlingssted for gruppe;Særlov;Særlov
+84475;Overtrædelse af oplysningspligt i forbindelse med kommunalt samlingsstedsforbud;Særlov;Særlov
+84500;Pasloven i øvrigt;Særlov;Særlov
+84503;Pasloven, overtrædelse af udrejseforbud;Særlov;Særlov
+84990;Andre strafferetslige særlove;Særlov;Særlov
+85110;Kildeskatteloven;Særlov;Særlov
+85130;Skattekontrolloven;Særlov;Særlov
+85140;Manglende registrering af køretøj;Særlov;Særlov
+85145;Overtrådt registreringsbekendtgørelsen;Særlov;Særlov
+85147;ATK - registreringsbekendtgørelse, manglende nummerplade;Særlov;Særlov
+85150;Lov om almindelig omsætningsafgift;Særlov;Særlov
+85160;Kontrol med ædle metaller;Særlov;Særlov
+85170;Afgiftslove for drikkevarer, tobak, benzin;Særlov;Særlov
+85190;Registreringsafgiftsloven;Særlov;Særlov
+85210;Vægtafgiftsloven;Særlov;Særlov
+85220;Lov om afgift på spillekasinoer;Særlov;Særlov
+85230;Stempelafgiftsloven;Særlov;Særlov
+85250;Toldloven;Særlov;Særlov
+85251;Toldloven - skærpende omstændigheder;Særlov;Særlov
+85260;EF's markedsforordninger;Særlov;Særlov
+85270;Pris- og avancelovgivningen;Særlov;Særlov
+85990;Andre skatte- og afgiftslove mv.;Særlov;Særlov
+86110;Serviceloven, Lov om social service;Særlov;Særlov
+86130;Sygesikringsloven;Særlov;Særlov
+86150;Lov om ATP;Særlov;Særlov
+86170;Veterinærlovgivningen;Særlov;Særlov
+86190;Kødloven;Særlov;Særlov
+86210;Levnedsmiddellovgivningen;Særlov;Særlov
+86220;Fødevareloven;Særlov;Særlov
+86230;Antibiotikalovgivningen;Særlov;Særlov
+86240;Lægemiddelloven;Særlov;Særlov
+86245;Lov om forbud mod visse dopingmidler;Særlov;Særlov
+86250;Lægeloven;Særlov;Særlov
+86251;Lov om autorisation af sundhedspersoner, læger;Særlov;Særlov
+86255;Tandlægeloven;Særlov;Særlov
+86256;Lov om autorisation af sundhedspersoner, tandlæger;Særlov;Særlov
+86270;Sygeplejeloven;Særlov;Særlov
+86271;Lov om autorisation af sundhedspersoner, sygeplejersker;Særlov;Særlov
+86290;Jordmoderloven;Særlov;Særlov
+86291;Lov om autorisation af sundhedspersoner, jordemødre;Særlov;Særlov
+86310;Svangerskabsloven;Særlov;Særlov
+86315;Lov om børns retsstilling;Særlov;Særlov
+86320;Lov om tatoveringer;Særlov;Særlov
+86990;Andre sundheds- og sociallove;Særlov;Særlov
+87110;Bolig- og bygningslovgivningen;Særlov;Særlov
+87120;Lov om kommuneplanlægning;Særlov;Særlov
+87130;Lejeloven;Særlov;Særlov
+88110;Miljøloven;Særlov;Særlov
+88112;Miljøzone, overtrædelse, dansk køretøj;Særlov;Særlov
+88113;Miljøzone, overtrædelse, udenlandsk køretøj;Særlov;Særlov
+88115;Havmiljøloven, olieforurening;Særlov;Særlov
+88116;Havmiljøloven, anden forurening;Særlov;Særlov
+88120;Grænseoverskridende affaldstransport, grønlistet;Særlov;Særlov
+88124;Grænseoverskridende affaldstransport, anmeldelsespligtig;Særlov;Særlov
+88126;Affaldsbekendtgørelsen, overtrædelse;Særlov;Særlov
+88128;Affaldsregistret, overtrædelse;Særlov;Særlov
+88130;Naturbeskyttelsesloven;Særlov;Særlov
+88131;Washingtonkonvention, truede dyr/planter;Særlov;Særlov
+88150;Skovloven;Særlov;Særlov
+88160;Lov om planlægning;Særlov;Særlov
+88170;By- og landzoneloven;Særlov;Særlov
+88190;Lov om sommerhuse og campering;Særlov;Særlov
+88210;Mark- og vejfredloven;Særlov;Særlov
+88230;Kemikalieloven;Særlov;Særlov
+88250;Landbrugsloven;Særlov;Særlov
+88990;Andre love vedrørende miljø;Særlov;Særlov
+89110;Dyreværnsloven;Særlov;Særlov
+89111;Dyretransport, mishandling/grovere uforsvarlig behandling af dyr;Særlov;Særlov
+89112;Dyretransport, medvirken til erhvervsmæssig transport af dyr;Særlov, Dyreværnsloven;Særlov
+89113;Dyretransport, erhvervsmæssig transport af dyr i frakendelsestiden;Særlov;Særlov
+89114;Dyretransport, manglende kompetencebevis;Særlov;Særlov
+89115;Dyretransport, areal/belægning, transportør (klip);Særlov, Dyreværnsloven;Særlov
+89116;Dyretransport, indvendig højde, transportør (klip);Særlov;Særlov
+89117;Dyretransport, ventilation, transportør (klip);Særlov;Særlov
+89118;Dyretransport, drikkevand/foder, transportør (klip);Særlov;Særlov
+89119;Dyretransport, hviletid, transportør (klip);Særlov;Særlov
+89120;Dyretransport, strøelse, transportør (klip);Særlov;Særlov
+89121;Dyretransport, transportegnethed, transportør (klip);Særlov;Særlov
+89122;Dyretransport, areal/belægning, chauffør/ledsager (klip);Særlov;Særlov
+89123;Dyretransport, indvendig højde, chauffør/ledsager (klip);Særlov;Særlov
+89124;Dyretransport, ventilation, chauffør/ledsager (klip);Særlov;Særlov
+89125;Dyretransport, drikkevand/foder, chauffør/ledsager (klip);Særlov;Særlov
+89126;Dyretransport, hviletid, chauffør/ledsager (klip);Særlov;Særlov
+89127;Dyretransport, strøelse, chauffør/ledsager (klip);Særlov;Særlov
+89128;Dyretransport, transportegnethed, chauffør/ledsager (klip);Særlov;Særlov
+89129;Slagtning og aflivning af dyr - bekendtgørelse;Særlov, Dyreværnsloven;Særlov
+89130;Jagtloven;Særlov;Særlov
+89131;Dyretransport, areal/belægning, virksomhed;Særlov;Særlov
+89132;Dyretransport, indvendig højde, virksomhed;Særlov;Særlov
+89133;Dyretransport, ventilation, virksomhed;Særlov;Særlov
+89134;Dyretransport, drikkevand/foder, virksomhed;Særlov;Særlov
+89135;Dyretransport, hviletid, virksomhed;Særlov;Særlov
+89136;Dyretransport, strøelse, virksomhed;Særlov;Særlov
+89137;Dyretransport, transportegnethed, virksomhed;Særlov;Særlov
+89138;Dyretransport, i øvrigt;Særlov;Særlov
+89140;Lov om hold af heste, forberedelse af forbud;Særlov;Særlov
+89141;Lov om hold af heste, meddelt påbud;Særlov;Særlov
+89142;Lov om hold af heste, overtrædelse af meddelt påbud;Særlov;Særlov
+89143;Lov om hold af heste, manglende forsikring;Særlov;Særlov
+89144;Dyreværnsloven, forberedelse af pålæg;Særlov;Særlov
+89145;Dyreværnsloven, meddelt pålæg;Særlov;Særlov
+89146;Dyreværnsloven, overtrædelse af meddelt pålæg;Særlov;Særlov
+89150;Hundeloven, forberedelse af pålæg;Særlov;Særlov
+89151;Hundeloven, pålæg efter;Særlov;Særlov
+89152;Hundeloven, overtrædelse af, samt overtrædelse af pålæg;Særlov;Særlov
+89153;Hundeloven, frakendelse efter;Særlov;Særlov
+89162;Malkekvæg, overtrædelse af påbud;Særlov;Særlov
+89170;Fiskerilovgivningen;Særlov;Særlov
+89180;Grindelov for Færøerne;Særlov;Særlov
+89990;Andre love vedr. dyr, jagt mv., i øvrigt;Særlov;Særlov
+90110;Arbejderbeskyttelseslovgivningen;Særlov;Særlov
+90111;Arbejdsskadeforsikringsloven;Særlov;Særlov
+90120;Forordninger om fartskrivere;Særlov;Særlov
+90121;Køre-hviletidsregler;Særlov;Særlov
+90130;Søloven;Særlov;Særlov
+90131;Skibsregistrering;Særlov;Særlov
+90132;Lodslov;Særlov;Særlov
+90133;Dykkerlov;Særlov;Særlov
+90140;Tilsyn med skibe;Særlov;Særlov
+90150;Luftfartsloven;Særlov;Særlov
+90151;Droneflyvning, bekendtgørelse om;Særlov;Særlov
+90170;Jernbaneloven;Særlov;Særlov
+90180;Lov om hyrekørsel;Særlov;Særlov
+90190;Lov om godstransport;Særlov;Særlov
+90195;Carbotagekørsel, overtrædelse;Særlov;Særlov
+90201;Lov om buskørsel;Særlov;Særlov
+90205;Udrykningskørsel, bekendtgørelse om;Særlov;Særlov
+90210;Sømandsloven;Særlov;Særlov
+90211;Bemandingslov;Særlov;Særlov
+90212;Forhyring;Særlov;Særlov
+90230;Ferieloven;Særlov;Særlov
+90250;Lærlingeloven;Særlov;Særlov
+90260;Lov om arbejdsformidling;Særlov;Særlov
+90265;Udstationering af lønmodtagere m.v., lov om;Særlov;Særlov
+90266;Udstationering af lønmodtager mv., lov om tjenesteyder ;Særlov;Særlov
+90267;Udstationering af lønmodtager mv., lov om hvervgiver;Særlov;Særlov
+90270;Lov om arbejdsmiljø;Særlov;Særlov
+90271;Bekendtgørelse om bedriftssundhedstjeneste;Særlov;Særlov
+90275;Lov om røgfri miljøer, rygepolitik;Særlov;Særlov
+90276;Lov om røgfri miljøer, forberedelse af påbud;Særlov;Særlov
+90278;Lov om røgfri miljøer, overtrædelse af meddelt påbud;Særlov;Særlov
+90279;Lov om røgfri miljøer, rygning indendørs;Særlov;Særlov
+90301;Kontrolapparatværksted, bekendtgørelse om autoriseret;Særlov;Særlov
+90302;Fartskriverkort, fører, bekendtgørelse om udstedelse af;Særlov;Særlov
+90303;Fartskriverkort, arbejdsgiver, bekendtgørelse om udstedelse af;Særlov;Særlov
+90304;Fartskriverkort, værksted, bekendtgørelse om udstedelse af;Særlov;Særlov
+90305;Køre-hviletid, fører, bekendtgørelse om nationale bestemmelser;Særlov;Særlov
+90306;Køre-hviletid, arbejdsgiver, bekendtgørelse om nationale bestemmelser;Særlov;Særlov
+90307;Køre-hviletid, fører;Særlov;Særlov
+90308;Køre-hviletid, arbejdsgiver;Særlov;Særlov
+90309;Køre-hviletid over 30%, fører;Særlov;Særlov
+90310;Uautoriseret indgreb i kontrolapparat, fører;Særlov;Særlov
+90311;Uautoriseret indgreb i kontrolapparat, arbejdsgiver;Særlov;Særlov
+90312;Kontrolapparat, fører;Særlov;Særlov
+90313;Kontrolapparat, arbejdsgiver;Særlov;Særlov
+90314;Køre-hviletid, kontroldata, opbevaring af dokumentation mv.;Særlov;Særlov
+90320;Kontrollører uden autorisation, beskæftigelse af;Særlov;Særlov
+90330;Køre-hviletid, fører;Særlov;Særlov
+90331;Køre-hviletid, arbejdsgiver;Særlov;Særlov
+90332;Køre-hviletid, fører;Særlov;Særlov
+90333;Køre-hviletid, arbejdsgiver;Særlov;Særlov
+90334;Køre-hviletid over 30%, fører;Særlov;Særlov
+90400;Piratkopiering;Særlov;Særlov
+90430;Modulvogntog, færdselsområde;Særlov;Særlov
+90431;Modulvogntog, udenlandske køretøjer;Særlov;Særlov
+90432;Modulvogntog, ikke godkendt vogntog;Særlov;Særlov
+90433;Modulvogntog, vægt;Særlov;Særlov
+90434;Modulvogntog, dolly/antal aksler;Særlov;Særlov
+90435;Modulvogntog, længde mv.;Særlov;Særlov
+90436;Modulvogntog, indretning og udstyr;Særlov;Særlov
+90437;Modulvogntog, MVT type 1-4;Særlov;Særlov
+90438;Modulvogntog, farligt gods;Særlov;Særlov
+90990;Andre love vedr. arbejde, transport mv., i øvrigt;Særlov;Særlov
+91110;Aktieselskabsloven;Særlov;Særlov
+91120;Selskabsloven;Særlov;Særlov
+91130;Anpartsselskabsloven;Særlov;Særlov
+91150;Firmaloven;Særlov;Særlov
+91155;Erhvervsregisteret;Særlov;Særlov
+91170;Bogføringsloven;Særlov;Særlov
+91190;Markedsføringsloven;Særlov;Særlov
+91191;Mønsterbeskyttelse/ophavsret;Særlov;Særlov
+91192;Lov om forretningshemmeligheder;Særlov;Særlov
+91210;Råstofloven;Særlov;Særlov
+91230;Erhvervsfremmeloven;Særlov;Særlov
+91250;Konkurrenceloven;Særlov;Særlov
+91260;Lov om kapitaltilførsel;Særlov;Særlov
+91270;Valutalovgivningen;Særlov;Særlov
+91280;Bank- og sparekasselov;Særlov;Særlov
+91290;Lov om butikstid;Særlov;Særlov
+91990;Andre love vedrørende selskabs- og firmalovgivningen;Særlov;Særlov
+92110;Militære straffelove;Særlov;Særlov
+92130;Værnepligtsloven;Særlov;Særlov
+92150;Lov om værnepligtiges anvendelse til civilt arbejde;Særlov;Særlov
+92170;Civilforsvarsloven;Særlov;Særlov
+92190;Lov om civilt beredskab;Særlov;Særlov
+92990;Andre love vedr. forsvaret o.l.;Særlov;Særlov
+93110;El-lovgivningen;Særlov;Særlov
+93130;Gaslovgivningen;Særlov;Særlov
+93140;Fællesantenner;Særlov;Særlov
+93990;Andre love vedrørende offentlige forsyninger;Særlov;Særlov
+94110;Restaurationsloven;Særlov;Særlov
+94111;Restaurationsloven, nattesæde;Særlov;Særlov
+94112;Restaurationsloven, ulovlig udskænkning;Særlov;Særlov
+94113;Restaurationsloven, forbud;Særlov;Særlov
+94114;Restaurationsloven, meddelt forbud;Særlov;Særlov
+94115;Restaurationsloven, overtrædelse af forbud;Særlov;Særlov
+94121;Alkohol, salg til unge under 16 år;Særlov;Særlov
+94128;Tobak, salg til unge under 18 år;Særlov;Særlov
+94129;Tobak, salg til unge under 16 år;Særlov;Særlov
+94130;Næringsloven;Særlov;Særlov
+94150;Handel med brugte genstande;Særlov;Særlov
+94160;Lov om auktionsledere;Særlov;Særlov
+94170;Film- og biograflov;Særlov;Særlov
+94180;Lov om spillekasinoer;Særlov;Særlov
+94190;Totalisatorlov;Særlov;Særlov
+94230;Apotekerlov;Særlov;Særlov
+94250;Medieansvarsloven (presselov);Særlov;Særlov
+94270;Lov om offentlige indsamlinger;Særlov;Særlov
+94280;Lov om mål og vægt;Særlov;Særlov
+94990;Andre love vedr. spil, bevilling, næring mv.;Særlov;Særlov
+99110;Øvrige særlovgivning;Særlov;Særlov
+99200;Uoplyst særlovgivning;Særlov;Særlov
